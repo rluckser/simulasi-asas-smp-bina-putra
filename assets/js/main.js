@@ -1,13 +1,18 @@
 /* Simulasi ASAS SMP Bina Putra — Matematika Kelas VIII & IX
    Statis, tanpa server. Tiap kelas punya bank soal sendiri: 80 soal,
    2 varian per indikator 1-40. Tiap sesi: 1 varian acak per indikator,
-   urutan soal diacak, urutan pilihan PG/Menjodohkan diacak.
+   urutan soal mengikuti kisi-kisi (PG, Benar-Salah, Menjodohkan,
+   Isian Singkat, Uraian) dengan pengacakan hanya di dalam tiap jenis
+   soal, urutan pilihan PG/Menjodohkan diacak.
    Skor otomatis: 30 soal. Kelas 7 masih Segera Hadir. */
 (function () {
   'use strict';
 
   var TOTAL_TIME = 120 * 60; // 120 menit, dalam detik
   var AUTO_TYPES = ['PG', 'Benar-Salah', 'Menjodohkan'];
+  /* Urutan jenis soal mengikuti kisi-kisi; pengacakan hanya di dalam
+     tiap jenis soal, bukan lintas jenis. */
+  var TYPE_ORDER = ['PG', 'Benar-Salah', 'Menjodohkan', 'Isian Singkat', 'Uraian'];
   var HISTORY_KEY = 'asas_bina_putra_history';
 
   /* Bank soal per kelas (diisi saat halaman dimuat). Kelas 7 belum ada. */
@@ -69,7 +74,13 @@
       }
       picked.push(copy);
     });
-    session = shuffle(picked);
+    /* Urutkan per jenis soal sesuai kisi-kisi; acak hanya di dalam
+       tiap jenis soal (PG 1-20, Benar-Salah 21-25, Menjodohkan 26-30,
+       Isian Singkat 31-35, Uraian 36-40). */
+    session = [];
+    TYPE_ORDER.forEach(function (t) {
+      session = session.concat(shuffle(picked.filter(function (q) { return q.tipe === t; })));
+    });
     answers = session.map(function () { return null; });
     current = 0;
     submitted = false;
