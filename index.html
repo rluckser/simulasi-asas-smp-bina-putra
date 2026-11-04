@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Simulasi ASAS SMP Bina Putra — Matematika Kelas IX</title>
+<title>Simulasi ASAS SMP Bina Putra — Matematika Kelas VIII &amp; IX</title>
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
   <header class="hero">
     <p class="hero-school">SMP Bina Putra</p>
     <h1>Simulasi ASAS SMP Bina Putra</h1>
-    <p class="hero-sub">Matematika Kelas IX — ASAS Ganjil 2026/2027</p>
+    <p class="hero-sub" id="hero-sub">Matematika Kelas IX — ASAS Ganjil 2026/2027</p>
     <p class="hero-desc">Tes soal prediksi ASAS berdasarkan kisi-kisi MGMP Matematika SMP Kabupaten Lampung Tengah. Soal diacak di setiap sesi, jadi tiap kali mengerjakan isinya bisa berbeda.</p>
   </header>
 
@@ -23,6 +23,16 @@
       <div class="info-card"><span class="info-num">120</span><span class="info-label">Menit</span></div>
       <div class="info-card"><span class="info-num">80</span><span class="info-label">Soal di bank soal</span></div>
       <div class="info-card"><span class="info-num">30</span><span class="info-label">Soal dinilai otomatis</span></div>
+    </div>
+
+    <div class="card">
+      <h2>Pilih Kelas</h2>
+      <div class="grade-picker" role="group" aria-label="Pilih kelas">
+        <button type="button" class="grade-btn" data-grade="7" disabled>Kelas 7<span class="badge-soon">Segera Hadir</span></button>
+        <button type="button" class="grade-btn" data-grade="8">Kelas 8</button>
+        <button type="button" class="grade-btn selected" data-grade="9">Kelas 9</button>
+      </div>
+      <p class="note" id="grade-note">Kelas 9: SPLDV, Bangun Ruang Sisi Datar, Lingkaran, dan Bangun Ruang Sisi Lengkung.</p>
     </div>
 
     <div class="card">
@@ -42,7 +52,7 @@
       <h3>Materi</h3>
       <table>
         <thead><tr><th>Materi</th><th>Jumlah Soal</th></tr></thead>
-        <tbody>
+        <tbody id="materi-rows">
           <tr><td>SPLDV</td><td>10</td></tr>
           <tr><td>Bangun Ruang Sisi Datar</td><td>11</td></tr>
           <tr><td>Lingkaran</td><td>9</td></tr>
