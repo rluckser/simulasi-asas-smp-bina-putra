@@ -819,17 +819,17 @@
   {
     "id": "BERP-26-B",
     "indikator": 26,
-    "jawaban": "4",
+    "jawaban": "3",
     "level": "C3",
     "materi": "Bilangan Berpangkat",
-    "pembahasan": "3ⁿ = 81. Karena 3⁴ = 81, maka n = 4.",
+    "pembahasan": "2ⁿ = 8. Karena 2³ = 8, maka n = 3.",
     "pilihan": [
       "3",
       "4",
       "5",
       "6"
     ],
-    "soal": "Diketahui 3ⁿ = 81 dengan n < 10. Nilai n adalah ....",
+    "soal": "Diketahui 2ⁿ = 8 dengan n < 10. Nilai n adalah ....",
     "tipe": "Menjodohkan",
     "varian": "B"
   },
