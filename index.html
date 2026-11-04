@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simulasi ASAS SMP Bina Putra — Matematika Kelas IX</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<!-- ============ LAYAR AWAL ============ -->
+<section id="screen-start" class="screen">
+  <header class="hero">
+    <p class="hero-school">SMP Bina Putra</p>
+    <h1>Simulasi ASAS SMP Bina Putra</h1>
+    <p class="hero-sub">Matematika Kelas IX — ASAS Ganjil 2026/2027</p>
+    <p class="hero-desc">Tes soal prediksi ASAS berdasarkan kisi-kisi MGMP Matematika SMP Kabupaten Lampung Tengah. Soal diacak di setiap sesi, jadi tiap kali mengerjakan isinya bisa berbeda.</p>
+  </header>
+
+  <main class="container">
+    <div class="info-cards">
+      <div class="info-card"><span class="info-num">40</span><span class="info-label">Soal per sesi</span></div>
+      <div class="info-card"><span class="info-num">120</span><span class="info-label">Menit</span></div>
+      <div class="info-card"><span class="info-num">80</span><span class="info-label">Soal di bank soal</span></div>
+      <div class="info-card"><span class="info-num">30</span><span class="info-label">Soal dinilai otomatis</span></div>
+    </div>
+
+    <div class="card">
+      <h2>Mulai Simulasi</h2>
+      <form id="start-form">
+        <label for="input-nama">Nama Siswa</label>
+        <input type="text" id="input-nama" placeholder="Contoh: Andi Pratama" required maxlength="60">
+        <label for="input-kelas">Kelas</label>
+        <input type="text" id="input-kelas" placeholder="Contoh: IX A" required maxlength="20">
+        <button type="submit" class="btn btn-primary btn-block">Mulai Simulasi</button>
+      </form>
+      <p class="note">Waktu pengerjaan 120 menit. Timer berjalan sejak tombol ditekan dan jawaban otomatis dikumpulkan saat waktu habis.</p>
+    </div>
+
+    <div class="card">
+      <h2>Distribusi Soal</h2>
+      <h3>Materi</h3>
+      <table>
+        <thead><tr><th>Materi</th><th>Jumlah Soal</th></tr></thead>
+        <tbody>
+          <tr><td>SPLDV</td><td>10</td></tr>
+          <tr><td>Bangun Ruang Sisi Datar</td><td>11</td></tr>
+          <tr><td>Lingkaran</td><td>9</td></tr>
+          <tr><td>Bangun Ruang Sisi Lengkung</td><td>10</td></tr>
+        </tbody>
+      </table>
+      <h3>Tipe Soal</h3>
+      <table>
+        <thead><tr><th>Tipe Soal</th><th>Jumlah</th><th>Penilaian</th></tr></thead>
+        <tbody>
+          <tr><td>Pilihan Jamak</td><td>20</td><td>Otomatis</td></tr>
+          <tr><td>Benar-Salah</td><td>5</td><td>Otomatis</td></tr>
+          <tr><td>Menjodohkan</td><td>5</td><td>Otomatis</td></tr>
+          <tr><td>Isian Singkat</td><td>5</td><td>Cek mandiri</td></tr>
+          <tr><td>Uraian</td><td>5</td><td>Cek mandiri</td></tr>
+        </tbody>
+      </table>
+      <p class="note">Skor otomatis dihitung dari 30 soal (Pilihan Jamak, Benar-Salah, dan Menjodohkan). Isian Singkat dan Uraian dicek mandiri dengan kunci jawaban dan pembahasan setelah selesai.</p>
+    </div>
+
+    <div class="card" id="history-card">
+      <h2>Riwayat Skor di Perangkat Ini</h2>
+      <p id="history-empty" class="note">Belum ada riwayat. Skor akan tersimpan di perangkat ini setelah kamu menyelesaikan simulasi.</p>
+      <ul id="history-list" class="history-list"></ul>
+      <button type="button" id="btn-clear-history" class="btn btn-ghost" hidden>Hapus Riwayat</button>
+    </div>
+  </main>
+  <footer class="footer">Simulasi ASAS SMP Bina Putra &middot; Matematika Kelas IX &middot; Kurikulum Merdeka</footer>
+</section>
+
+<!-- ============ LAYAR TES ============ -->
+<section id="screen-test" class="screen" hidden>
+  <header class="test-header">
+    <div class="test-header-left">
+      <strong>Simulasi ASAS</strong>
+      <span id="test-student" class="test-student"></span>
+    </div>
+    <div class="test-header-right">
+      <span id="test-progress" class="test-progress"></span>
+      <span id="timer" class="timer" aria-live="polite">02:00:00</span>
+    </div>
+  </header>
+
+  <main class="container test-layout">
+    <aside class="nav-panel">
+      <h2>Navigasi Soal</h2>
+      <div id="nav-grid" class="nav-grid"></div>
+      <p class="note"><span class="dot dot-done"></span> Sudah dijawab &nbsp; <span class="dot dot-todo"></span> Belum dijawab</p>
+      <button type="button" id="btn-finish" class="btn btn-primary btn-block">Selesai &amp; Lihat Hasil</button>
+    </aside>
+
+    <div class="question-card card">
+      <div class="question-meta">
+        <span id="q-number" class="q-number"></span>
+        <span id="q-type" class="badge"></span>
+        <span id="q-materi" class="badge badge-green"></span>
+      </div>
+      <p id="q-text" class="q-text"></p>
+      <div id="q-input" class="q-input"></div>
+      <div class="question-nav">
+        <button type="button" id="btn-prev" class="btn btn-secondary">&larr; Sebelumnya</button>
+        <button type="button" id="btn-next" class="btn btn-secondary">Berikutnya &rarr;</button>
+      </div>
+    </div>
+  </main>
+</section>
+
+<!-- ============ LAYAR HASIL ============ -->
+<section id="screen-result" class="screen" hidden>
+  <main class="container">
+    <div class="card result-hero">
+      <h2>Hasil Simulasi</h2>
+      <p id="result-student" class="result-student"></p>
+      <p class="score-big"><span id="result-score">0</span><span class="score-max"> / 100</span></p>
+      <p id="result-summary" class="result-summary"></p>
+      <p class="note">Skor dihitung dari 30 soal yang dinilai otomatis (Pilihan Jamak, Benar-Salah, Menjodohkan). Isian Singkat dan Uraian tidak masuk skor — cek sendiri dengan kunci jawaban di bawah.</p>
+      <div class="result-actions">
+        <button type="button" id="btn-retry" class="btn btn-primary">Ulangi Tes (Soal Baru)</button>
+        <button type="button" id="btn-home" class="btn btn-secondary">Kembali ke Beranda</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Pembahasan</h2>
+      <div id="review-list" class="review-list"></div>
+    </div>
+  </main>
+  <footer class="footer">Simulasi ASAS SMP Bina Putra &middot; Matematika Kelas IX &middot; Kurikulum Merdeka</footer>
+</section>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>
