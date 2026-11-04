@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" width="400" height="340" role="img">
+<title>Tiga segitiga siku-siku berimpit: sisi 3, 4, 12, dan 84 cm</title>
+<rect x="0" y="0" width="400" height="340" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<polygon points="100,180 100,270 220,270" fill="#dbeafe" stroke="#1f2a37" stroke-width="2"/>
+<polygon points="100,180 220,270 280,190" fill="#dcfce7" stroke="#1f2a37" stroke-width="2"/>
+<polygon points="100,180 280,190 273,320" fill="#fef3c7" stroke="#1f2a37" stroke-width="2"/>
+<path d="M100,252 L118,252 L118,270" fill="none" stroke="#1f2a37" stroke-width="2"/>
+<path d="M205.6,259.2 L216.4,244.8 L230.8,255.6" fill="none" stroke="#1f2a37" stroke-width="2"/>
+<path d="M262,189 L261,207 L279,208" fill="none" stroke="#1f2a37" stroke-width="2"/>
+<text x="86" y="172" font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">A</text>
+<text x="86" y="288" font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">B</text>
+<text x="224" y="290" font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">C</text>
+<text x="296" y="184" font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">D</text>
+<text x="288" y="334" font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">E</text>
+<text x="76" y="228" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">3 cm</text>
+<text x="160" y="292" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">4 cm</text>
+<text x="262" y="240" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">12 cm</text>
+<text x="293" y="258" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">84 cm</text>
+<text x="191" y="168" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">13 cm</text>
+<text x="176" y="264" font-size="24" fill="#1d4ed8" text-anchor="middle" font-weight="bold">?</text>
+</g>
+</svg>

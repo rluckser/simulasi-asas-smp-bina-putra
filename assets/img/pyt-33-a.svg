@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Diagram koordinat Kartesius, titik A(0, 0) dan B(6, 8)</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<g stroke="#e2e8f0" stroke-width="1">
+<line x1="95" y1="45" x2="95" y2="270"/><line x1="120" y1="45" x2="120" y2="270"/>
+<line x1="145" y1="45" x2="145" y2="270"/><line x1="170" y1="45" x2="170" y2="270"/>
+<line x1="195" y1="45" x2="195" y2="270"/><line x1="220" y1="45" x2="220" y2="270"/>
+<line x1="245" y1="45" x2="245" y2="270"/>
+<line x1="70" y1="245" x2="245" y2="245"/><line x1="70" y1="220" x2="245" y2="220"/>
+<line x1="70" y1="195" x2="245" y2="195"/><line x1="70" y1="170" x2="245" y2="170"/>
+<line x1="70" y1="145" x2="245" y2="145"/><line x1="70" y1="120" x2="245" y2="120"/>
+<line x1="70" y1="95" x2="245" y2="95"/><line x1="70" y1="70" x2="245" y2="70"/>
+<line x1="70" y1="45" x2="245" y2="45"/>
+</g>
+<line x1="70" y1="270" x2="258" y2="270" stroke="#1f2a37" stroke-width="2"/>
+<polygon points="258,270 246,265 246,275" fill="#1f2a37"/>
+<line x1="70" y1="270" x2="70" y2="34" stroke="#1f2a37" stroke-width="2"/>
+<polygon points="70,34 65,46 75,46" fill="#1f2a37"/>
+<g font-size="11" fill="#64748b" text-anchor="middle">
+<text x="95" y="288">1</text><text x="120" y="288">2</text><text x="145" y="288">3</text>
+<text x="170" y="288">4</text><text x="195" y="288">5</text><text x="220" y="288">6</text>
+<text x="245" y="288">7</text>
+</g>
+<g font-size="11" fill="#64748b" text-anchor="end">
+<text x="60" y="249">1</text><text x="60" y="224">2</text><text x="60" y="199">3</text>
+<text x="60" y="174">4</text><text x="60" y="149">5</text><text x="60" y="124">6</text>
+<text x="60" y="99">7</text><text x="60" y="74">8</text><text x="60" y="49">9</text>
+</g>
+<text x="266" y="274" font-size="15" fill="#1f2a37" font-weight="bold">x</text>
+<text x="62" y="28" font-size="15" fill="#1f2a37" font-weight="bold">y</text>
+<line x1="70" y1="270" x2="220" y2="70" stroke="#1d4ed8" stroke-width="2" stroke-dasharray="6 4"/>
+<circle cx="70" cy="270" r="5" fill="#1d4ed8"/>
+<circle cx="220" cy="70" r="5" fill="#1d4ed8"/>
+<text x="86" y="292" font-size="15" fill="#1d4ed8" font-weight="bold">A(0, 0)</text>
+<text x="230" y="60" font-size="15" fill="#1d4ed8" font-weight="bold">B(6, 8)</text>
+</g>
+</svg>

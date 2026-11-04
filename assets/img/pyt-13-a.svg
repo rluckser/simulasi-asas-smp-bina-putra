@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Segitiga dengan sisi 6 cm, 8 cm, dan 10 cm</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<polygon points="80,230 320,230 166,115" fill="#dbeafe" stroke="#1f2a37" stroke-width="2"/>
+<text x="66" y="240" font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">A</text>
+<text x="334" y="240" font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">B</text>
+<text x="166" y="100" font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">C</text>
+<text x="98" y="168" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">6 cm</text>
+<text x="272" y="168" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">8 cm</text>
+<text x="200" y="254" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">10 cm</text>
+</g>
+</svg>

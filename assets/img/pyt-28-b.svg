@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Balok 6 cm × 8 cm × 24 cm dengan diagonal ruang</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="150" y="50" width="160" height="180" fill="#f8fafc" stroke="#94a3b8" stroke-width="2"/>
+<rect x="100" y="90" width="160" height="180" fill="#dbeafe" stroke="#1f2a37" stroke-width="2"/>
+<line x1="100" y1="90" x2="150" y2="50" stroke="#1f2a37" stroke-width="2"/>
+<line x1="260" y1="90" x2="310" y2="50" stroke="#1f2a37" stroke-width="2"/>
+<line x1="100" y1="270" x2="150" y2="230" stroke="#1f2a37" stroke-width="2"/>
+<line x1="260" y1="270" x2="310" y2="230" stroke="#1f2a37" stroke-width="2"/>
+<line x1="100" y1="270" x2="310" y2="50" stroke="#1d4ed8" stroke-width="2.5" stroke-dasharray="7 5"/>
+<text x="180" y="292" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">8 cm</text>
+<text x="78" y="180" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">24 cm</text>
+<text x="108" y="58" font-size="16" fill="#1d4ed8" text-anchor="middle" font-weight="bold">6 cm</text>
+</g>
+</svg>
