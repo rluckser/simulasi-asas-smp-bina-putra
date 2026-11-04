@@ -171,6 +171,7 @@
   },
   {
     "id": "BRSD-06-A",
+    "gambar": "assets/img/brsd-06-a.svg",
     "indikator": 6,
     "jawaban": "Biru",
     "level": "C2",
@@ -188,6 +189,7 @@
   },
   {
     "id": "BRSD-06-B",
+    "gambar": "assets/img/brsd-06-b.svg",
     "indikator": 6,
     "jawaban": "Hitam",
     "level": "C2",
@@ -273,6 +275,7 @@
   },
   {
     "id": "BRSD-09-A",
+    "gambar": "assets/img/brsd-09-a.svg",
     "indikator": 9,
     "jawaban": "480 cm³",
     "level": "C3",
@@ -290,6 +293,7 @@
   },
   {
     "id": "BRSD-09-B",
+    "gambar": "assets/img/brsd-09-b.svg",
     "indikator": 9,
     "jawaban": "360 cm³",
     "level": "C3",
@@ -443,6 +447,7 @@
   },
   {
     "id": "LING-14-A",
+    "gambar": "assets/img/ling-14-a.svg",
     "indikator": 14,
     "jawaban": "90°",
     "level": "C3",
@@ -460,6 +465,7 @@
   },
   {
     "id": "LING-14-B",
+    "gambar": "assets/img/ling-14-b.svg",
     "indikator": 14,
     "jawaban": "45°",
     "level": "C3",
@@ -579,6 +585,7 @@
   },
   {
     "id": "BRSL-18-A",
+    "gambar": "assets/img/brsl-18-a.svg",
     "indikator": 18,
     "jawaban": "1.540 cm³",
     "level": "C3",
@@ -596,6 +603,7 @@
   },
   {
     "id": "BRSL-18-B",
+    "gambar": "assets/img/brsl-18-b.svg",
     "indikator": 18,
     "jawaban": "616 cm³",
     "level": "C3",
@@ -1115,6 +1123,7 @@
   },
   {
     "id": "BRSD-38-A",
+    "gambar": "assets/img/brsd-38-a.svg",
     "indikator": 38,
     "jawaban": "304 cm³",
     "level": "C3",
@@ -1126,6 +1135,7 @@
   },
   {
     "id": "BRSD-38-B",
+    "gambar": "assets/img/brsd-38-b.svg",
     "indikator": 38,
     "jawaban": "456 cm³",
     "level": "C3",
@@ -1137,6 +1147,7 @@
   },
   {
     "id": "LING-39-A",
+    "gambar": "assets/img/ling-39-a.svg",
     "indikator": 39,
     "jawaban": "Keliling = 22/7 x 28 cm = 88 cm",
     "level": "C3",
@@ -1148,6 +1159,7 @@
   },
   {
     "id": "LING-39-B",
+    "gambar": "assets/img/ling-39-b.svg",
     "indikator": 39,
     "jawaban": "Keliling = 2 x 22/7 x 21 cm = 132 cm",
     "level": "C3",
@@ -1159,6 +1171,7 @@
   },
   {
     "id": "BRSL-40-A",
+    "gambar": "assets/img/brsl-40-a.svg",
     "indikator": 40,
     "jawaban": "30.800 cm³",
     "level": "C3",
@@ -1170,6 +1183,7 @@
   },
   {
     "id": "BRSL-40-B",
+    "gambar": "assets/img/brsl-40-b.svg",
     "indikator": 40,
     "jawaban": "6.160 cm³",
     "level": "C3",
