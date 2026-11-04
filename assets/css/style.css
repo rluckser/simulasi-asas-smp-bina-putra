@@ -51,6 +51,24 @@ h3 { font-size: 1.05rem; margin-bottom: 0.4rem; }
 .info-num { display: block; font-size: 1.7rem; font-weight: 700; color: #166534; }
 .info-label { font-size: 0.85rem; color: #4b5563; }
 
+/* Pemilih kelas */
+.grade-picker { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 8px; }
+.grade-btn {
+  padding: 16px 8px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  font-family: inherit;
+  border: 2px solid #b6c2cf;
+  border-radius: 12px;
+  background: #fff;
+  color: #1f2a37;
+  cursor: pointer;
+}
+.grade-btn:hover:not(:disabled) { border-color: #1d4ed8; background: #eff6ff; }
+.grade-btn.selected { border-color: #166534; background: #dcfce7; color: #14532d; }
+.grade-btn:disabled { opacity: 0.55; cursor: not-allowed; }
+.badge-soon { display: block; font-size: 0.75rem; font-weight: 600; color: #92400e; margin-top: 4px; }
+
 label { display: block; font-weight: 600; margin: 12px 0 4px; }
 input[type="text"], textarea {
   width: 100%;
@@ -193,6 +211,7 @@ th { background: #eef2f7; }
 @media (max-width: 720px) {
   h1 { font-size: 1.5rem; }
   .info-cards { grid-template-columns: repeat(2, 1fr); }
+  .grade-picker { grid-template-columns: 1fr; }
   .test-layout { grid-template-columns: 1fr; }
   .nav-panel { position: static; }
   .question-nav { flex-direction: column; }
