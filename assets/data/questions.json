@@ -1,0 +1,1182 @@
+[
+  {
+    "id": "SPLDV-01-A",
+    "indikator": 1,
+    "jawaban": "Persamaan (1) dan (3)",
+    "level": "C2",
+    "materi": "SPLDV",
+    "pembahasan": "PLDV adalah persamaan dengan dua variabel yang masing-masing berpangkat 1. Persamaan (1) 2x + 3y = 12 dan (3) 3x − y = 7 memenuhi syarat itu. Persamaan (2) memuat x² dan persamaan (4) memuat xy, jadi keduanya bukan PLDV.",
+    "pilihan": [
+      "Persamaan (1) dan (3)",
+      "Persamaan (2) dan (4)",
+      "Persamaan (1) dan (2)",
+      "Persamaan (3) dan (4)"
+    ],
+    "soal": "Perhatikan empat persamaan berikut. (1) 2x + 3y = 12 (2) x² + 2y = 5 (3) 3x − y = 7 (4) xy = 6. Persamaan yang merupakan persamaan linear dua variabel (PLDV) adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "SPLDV-01-B",
+    "indikator": 1,
+    "jawaban": "Persamaan (2) dan (4)",
+    "level": "C2",
+    "materi": "SPLDV",
+    "pembahasan": "PLDV adalah persamaan dengan dua variabel yang masing-masing berpangkat 1. Persamaan (2) x − 4y = 3 dan (4) 5x + y = 11 memenuhi syarat itu. Persamaan (1) memuat y² dan persamaan (3) memuat xy, jadi keduanya bukan PLDV.",
+    "pilihan": [
+      "Persamaan (1) dan (2)",
+      "Persamaan (2) dan (4)",
+      "Persamaan (1) dan (3)",
+      "Persamaan (3) dan (4)"
+    ],
+    "soal": "Perhatikan empat persamaan berikut. (1) 2x + y² = 9 (2) x − 4y = 3 (3) 3xy = 12 (4) 5x + y = 11. Persamaan yang merupakan persamaan linear dua variabel (PLDV) adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "SPLDV-02-A",
+    "indikator": 2,
+    "jawaban": "2x + 3y = 15.000",
+    "level": "C2",
+    "materi": "SPLDV",
+    "pembahasan": "Harga 2 buku tulis adalah 2x dan harga 3 pensil adalah 3y. Jumlah keduanya Rp15.000,00, sehingga modelnya 2x + 3y = 15.000.",
+    "pilihan": [
+      "3x + 2y = 15.000",
+      "2x + 3y = 15.000",
+      "x + y = 15.000",
+      "2x + 3y = 150"
+    ],
+    "soal": "Harga 2 buku tulis dan 3 pensil adalah Rp15.000,00. Jika x menyatakan harga sebuah buku tulis dan y menyatakan harga sebuah pensil, model matematika yang tepat adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "SPLDV-02-B",
+    "indikator": 2,
+    "jawaban": "3x + 2y = 46.000",
+    "level": "C2",
+    "materi": "SPLDV",
+    "pembahasan": "Harga 3 kg apel adalah 3x dan harga 2 kg jeruk adalah 2y. Jumlah keduanya Rp46.000,00, sehingga modelnya 3x + 2y = 46.000.",
+    "pilihan": [
+      "3x + 2y = 46.000",
+      "2x + 3y = 46.000",
+      "3x + 2y = 4.600",
+      "x + y = 46.000"
+    ],
+    "soal": "Harga 3 kg apel dan 2 kg jeruk adalah Rp46.000,00. Jika x menyatakan harga 1 kg apel dan y menyatakan harga 1 kg jeruk, model matematika yang tepat adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "SPLDV-03-A",
+    "indikator": 3,
+    "jawaban": "(2, 3)",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Jumlahkan kedua persamaan: (x + y) + (x − y) = 5 + (−1), diperoleh 2x = 4, jadi x = 2. Substitusi x = 2 ke x + y = 5, diperoleh 2 + y = 5, jadi y = 3. Titik potongnya (2, 3).",
+    "pilihan": [
+      "(2, 3)",
+      "(3, 2)",
+      "(1, 4)",
+      "(4, 1)"
+    ],
+    "soal": "Dua garis dengan persamaan x + y = 5 dan x − y = −1 berpotongan di satu titik. Koordinat titik potong kedua garis tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "SPLDV-03-B",
+    "indikator": 3,
+    "jawaban": "(3, 1)",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Jumlahkan kedua persamaan: (2x + y) + (x − y) = 7 + 2, diperoleh 3x = 9, jadi x = 3. Substitusi x = 3 ke x − y = 2, diperoleh 3 − y = 2, jadi y = 1. Titik potongnya (3, 1).",
+    "pilihan": [
+      "(1, 5)",
+      "(3, 1)",
+      "(2, 3)",
+      "(5, −3)"
+    ],
+    "soal": "Dua garis dengan persamaan 2x + y = 7 dan x − y = 2 berpotongan di satu titik. Koordinat titik potong kedua garis tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "SPLDV-04-A",
+    "indikator": 4,
+    "jawaban": "16",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Jumlahkan kedua persamaan: 2x = 10, jadi x = 5. Substitusi x = 5 ke x + y = 7, diperoleh y = 2. Maka 2x + 3y = 2(5) + 3(2) = 10 + 6 = 16.",
+    "pilihan": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "soal": "Diketahui SPLDV x + y = 7 dan x − y = 3. Nilai dari 2x + 3y adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "SPLDV-04-B",
+    "indikator": 4,
+    "jawaban": "8",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Jumlahkan kedua persamaan: 3x = 12, jadi x = 4. Substitusi x = 4 ke x − y = 2, diperoleh y = 2. Maka 3x − 2y = 3(4) − 2(2) = 12 − 4 = 8.",
+    "pilihan": [
+      "6",
+      "10",
+      "8",
+      "12"
+    ],
+    "soal": "Diketahui SPLDV 2x + y = 10 dan x − y = 2. Nilai dari 3x − 2y adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "SPLDV-05-A",
+    "indikator": 5,
+    "jawaban": "Rp21.000,00",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Dari x + y = 8.000 dan 2x + y = 13.000, kurangkan persamaan kedua dengan persamaan pertama: x = 5.000. Substitusi ke x + y = 8.000, diperoleh y = 3.000. Maka 3x + 2y = 3(5.000) + 2(3.000) = 15.000 + 6.000 = 21.000.",
+    "pilihan": [
+      "Rp19.000,00",
+      "Rp20.000,00",
+      "Rp21.000,00",
+      "Rp22.000,00"
+    ],
+    "soal": "Harga sebuah buku tulis dan sebuah pensil adalah Rp8.000,00. Harga 2 buku tulis dan sebuah pensil adalah Rp13.000,00. Jika x menyatakan harga sebuah buku tulis dan y menyatakan harga sebuah pensil, nilai dari 3x + 2y adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "SPLDV-05-B",
+    "indikator": 5,
+    "jawaban": "Rp27.000,00",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Dari 2x + y = 17.000 dan x + y = 11.000, kurangkan persamaan pertama dengan persamaan kedua: x = 6.000. Substitusi ke x + y = 11.000, diperoleh y = 5.000. Maka 2x + 3y = 2(6.000) + 3(5.000) = 12.000 + 15.000 = 27.000.",
+    "pilihan": [
+      "Rp25.000,00",
+      "Rp26.000,00",
+      "Rp28.000,00",
+      "Rp27.000,00"
+    ],
+    "soal": "Harga 2 kg gula dan 1 kg tepung adalah Rp17.000,00. Harga 1 kg gula dan 1 kg tepung adalah Rp11.000,00. Jika x menyatakan harga 1 kg gula dan y menyatakan harga 1 kg tepung, nilai dari 2x + 3y adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-06-A",
+    "indikator": 6,
+    "jawaban": "Biru",
+    "level": "C2",
+    "materi": "BRSD",
+    "pembahasan": "Pada jaring-jaring tersebut, persegi merah dan persegi biru terletak di dua sisi yang berlawanan dari persegi bertanda bintang, sehingga setelah dilipat keduanya saling berhadapan. Pasangan sisi yang berhadapan lainnya adalah kuning dengan hijau, serta bintang dengan lingkaran.",
+    "pilihan": [
+      "Kuning",
+      "Biru",
+      "Hijau",
+      "Lingkaran"
+    ],
+    "soal": "Perhatikan jaring-jaring kubus berikut. Enam persegi tersusun sebagai berikut: empat persegi berderet mendatar dari kiri ke kanan, yaitu persegi kuning, persegi bertanda bintang, persegi hijau, dan persegi lingkaran. Satu persegi merah terletak di atas persegi bertanda bintang, dan satu persegi biru terletak di bawah persegi bertanda bintang. Jika jaring-jaring tersebut dilipat menjadi kubus, sisi yang berhadapan dengan sisi berwarna merah adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-06-B",
+    "indikator": 6,
+    "jawaban": "Hitam",
+    "level": "C2",
+    "materi": "BRSD",
+    "pembahasan": "Persegi kuning dan persegi hitam terletak di dua sisi yang berlawanan dari persegi bertanda segitiga, sehingga setelah dilipat keduanya saling berhadapan. Pasangan sisi yang berhadapan lainnya adalah merah dengan hijau, serta segitiga dengan biru.",
+    "pilihan": [
+      "Merah",
+      "Hijau",
+      "Biru",
+      "Hitam"
+    ],
+    "soal": "Perhatikan jaring-jaring kubus berikut. Empat persegi berderet mendatar dari kiri ke kanan, yaitu persegi merah, persegi bertanda segitiga, persegi hijau, dan persegi biru. Satu persegi kuning terletak di atas persegi bertanda segitiga, dan satu persegi hitam terletak di bawah persegi bertanda segitiga. Jika jaring-jaring tersebut dilipat menjadi kubus, sisi yang berhadapan dengan sisi berwarna kuning adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-07-A",
+    "indikator": 7,
+    "jawaban": "72 cm²",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Luas alas segitiga = 1/2 × 6 × 8 = 24 cm². Luas permukaan prisma = 2 × 24 + (6 + 8 + 10) × 20 = 48 + 480 = 528 cm². Sisa kertas = 600 - 528 = 72 cm².",
+    "pilihan": [
+      "48 cm²",
+      "72 cm²",
+      "120 cm²",
+      "528 cm²"
+    ],
+    "soal": "Andi akan membuat kemasan berbentuk prisma segitiga. Alas prisma berbentuk segitiga siku-siku dengan sisi-sisi 6 cm, 8 cm, dan 10 cm, sedangkan tinggi prisma 20 cm. Andi mempunyai selembar kertas karton seluas 600 cm². Sisa luas kertas karton yang tidak terpakai setelah dibuat kemasan tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-07-B",
+    "indikator": 7,
+    "jawaban": "90 cm²",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Luas alas segitiga = 1/2 × 5 × 12 = 30 cm². Luas permukaan prisma = 2 × 30 + (5 + 12 + 13) × 15 = 60 + 450 = 510 cm². Sisa kertas = 600 - 510 = 90 cm².",
+    "pilihan": [
+      "60 cm²",
+      "150 cm²",
+      "90 cm²",
+      "510 cm²"
+    ],
+    "soal": "Sinta akan membuat kemasan berbentuk prisma segitiga. Alas prisma berbentuk segitiga siku-siku dengan sisi-sisi 5 cm, 12 cm, dan 13 cm, sedangkan tinggi prisma 15 cm. Sinta mempunyai selembar kertas karton seluas 600 cm². Sisa luas kertas karton yang tidak terpakai setelah dibuat kemasan tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-08-A",
+    "indikator": 8,
+    "jawaban": "360 cm²",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Luas alas = 10 × 10 = 100 cm². Luas keempat sisi tegak = 4 × (1/2 × 10 × 13) = 260 cm². Luas permukaan = 100 + 260 = 360 cm².",
+    "pilihan": [
+      "260 cm²",
+      "460 cm²",
+      "360 cm²",
+      "560 cm²"
+    ],
+    "soal": "Sebuah limas segiempat beraturan memiliki alas berbentuk persegi dengan panjang sisi 10 cm. Tinggi segitiga pada sisi tegak limas adalah 13 cm. Luas permukaan limas tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-08-B",
+    "indikator": 8,
+    "jawaban": "384 cm²",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Luas alas = 12 × 12 = 144 cm². Luas keempat sisi tegak = 4 × (1/2 × 12 × 10) = 240 cm². Luas permukaan = 144 + 240 = 384 cm².",
+    "pilihan": [
+      "384 cm²",
+      "240 cm²",
+      "288 cm²",
+      "480 cm²"
+    ],
+    "soal": "Sebuah limas segiempat beraturan memiliki alas berbentuk persegi dengan panjang sisi 12 cm. Tinggi segitiga pada sisi tegak limas adalah 10 cm. Luas permukaan limas tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-09-A",
+    "indikator": 9,
+    "jawaban": "480 cm³",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Volume balok = panjang × lebar × tinggi = 12 × 8 × 5 = 480 cm³.",
+    "pilihan": [
+      "240 cm³",
+      "360 cm³",
+      "600 cm³",
+      "480 cm³"
+    ],
+    "soal": "Sebuah kotak penyimpanan berbentuk balok berukuran panjang 12 cm, lebar 8 cm, dan tinggi 5 cm. Volume kotak tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-09-B",
+    "indikator": 9,
+    "jawaban": "360 cm³",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Luas alas segitiga = 1/2 × 8 × 6 = 24 cm². Volume prisma = luas alas × tinggi prisma = 24 × 15 = 360 cm³.",
+    "pilihan": [
+      "180 cm³",
+      "360 cm³",
+      "240 cm³",
+      "720 cm³"
+    ],
+    "soal": "Sebuah tenda berbentuk prisma segitiga. Alas prisma berbentuk segitiga dengan alas 8 cm dan tinggi segitiga 6 cm, sedangkan tinggi prisma 15 cm. Volume tenda tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-10-A",
+    "indikator": 10,
+    "jawaban": "1000 cm³",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Rusuk baru = 5 × 2 = 10 cm. Volume kubus baru = 10 × 10 × 10 = 1000 cm³. Volume semula 125 cm³ menjadi 8 kali lipat, karena 2³ = 8.",
+    "pilihan": [
+      "250 cm³",
+      "500 cm³",
+      "1000 cm³",
+      "2000 cm³"
+    ],
+    "soal": "Sebuah kubus memiliki panjang rusuk 5 cm. Jika panjang rusuk kubus tersebut diperbesar 2 kali, volume kubus yang baru adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-10-B",
+    "indikator": 10,
+    "jawaban": "1728 cm³",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Rusuk baru = 3 × 4 = 12 cm. Volume kubus baru = 12 × 12 × 12 = 1728 cm³. Volume semula 27 cm³ menjadi 64 kali lipat, karena 4³ = 64.",
+    "pilihan": [
+      "1728 cm³",
+      "432 cm³",
+      "864 cm³",
+      "3456 cm³"
+    ],
+    "soal": "Sebuah kubus memiliki panjang rusuk 3 cm. Jika panjang rusuk kubus tersebut diperbesar 4 kali, volume kubus yang baru adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "LING-11-A",
+    "indikator": 11,
+    "jawaban": "Juring",
+    "level": "C2",
+    "materi": "Lingkaran",
+    "pembahasan": "Juring adalah daerah yang dibatasi oleh dua jari-jari dan sebuah busur. Tembereng dibatasi oleh tali busur dan busur, sedangkan apotema adalah jarak dari pusat ke tali busur.",
+    "pilihan": [
+      "Juring",
+      "Tembereng",
+      "Tali busur",
+      "Apotema"
+    ],
+    "soal": "Bagian lingkaran yang dibatasi oleh dua jari-jari dan sebuah busur lingkaran disebut ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "LING-11-B",
+    "indikator": 11,
+    "jawaban": "Apotema",
+    "level": "C2",
+    "materi": "Lingkaran",
+    "pembahasan": "Apotema adalah jarak terpendek dari titik pusat lingkaran ke tali busur dan tegak lurus terhadap tali busur. Diameter adalah tali busur terpanjang yang melalui pusat, bukan jarak pusat ke tali busur.",
+    "pilihan": [
+      "Diameter",
+      "Tali busur",
+      "Apotema",
+      "Juring"
+    ],
+    "soal": "Garis terpendek dari titik pusat lingkaran ke tali busur, yang tegak lurus terhadap tali busur tersebut, disebut ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "LING-12-A",
+    "indikator": 12,
+    "jawaban": "44 m",
+    "level": "C3",
+    "materi": "Lingkaran",
+    "pembahasan": "Keliling = pi x diameter = 22/7 x 14 m = 44 m.",
+    "pilihan": [
+      "88 m",
+      "44 m",
+      "154 m",
+      "22 m"
+    ],
+    "soal": "Sebuah taman berbentuk lingkaran berdiameter 14 m. Jika pi = 22/7, keliling taman tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "LING-12-B",
+    "indikator": 12,
+    "jawaban": "88 m",
+    "level": "C3",
+    "materi": "Lingkaran",
+    "pembahasan": "Keliling = 2 x pi x jari-jari = 2 x 22/7 x 14 m = 88 m.",
+    "pilihan": [
+      "44 m",
+      "66 m",
+      "88 m",
+      "154 m"
+    ],
+    "soal": "Sebuah kolam ikan berbentuk lingkaran berjari-jari 14 m. Jika pi = 22/7, keliling kolam tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "LING-13-A",
+    "indikator": 13,
+    "jawaban": "22 cm",
+    "level": "C2",
+    "materi": "Lingkaran",
+    "pembahasan": "Panjang busur = 90/360 x 2 x pi x r = 1/4 x 2 x 22/7 x 14 cm = 1/4 x 88 cm = 22 cm.",
+    "pilihan": [
+      "11 cm",
+      "22 cm",
+      "44 cm",
+      "88 cm"
+    ],
+    "soal": "Sebuah lingkaran berjari-jari 14 cm. Jika pi = 22/7, panjang busur yang menghadap sudut pusat 90° adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "LING-13-B",
+    "indikator": 13,
+    "jawaban": "31,4 cm",
+    "level": "C2",
+    "materi": "Lingkaran",
+    "pembahasan": "Panjang busur = 90/360 x 2 x pi x r = 1/4 x 2 x 3,14 x 20 cm = 1/4 x 125,6 cm = 31,4 cm.",
+    "pilihan": [
+      "62,8 cm",
+      "15,7 cm",
+      "125,6 cm",
+      "31,4 cm"
+    ],
+    "soal": "Sebuah lingkaran berjari-jari 20 cm. Jika pi = 3,14, panjang busur yang menghadap sudut pusat 90° adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "LING-14-A",
+    "indikator": 14,
+    "jawaban": "90°",
+    "level": "C3",
+    "materi": "Lingkaran",
+    "pembahasan": "Panjang busur = sudut/360 x 2 x pi x r, jadi 11 = sudut/360 x 2 x 22/7 x 7 = sudut/360 x 44. Maka sudut/360 = 11/44 = 1/4, sehingga sudut = 90°.",
+    "pilihan": [
+      "45°",
+      "180°",
+      "90°",
+      "60°"
+    ],
+    "soal": "Sebuah juring memiliki panjang busur 11 cm. Lingkaran tersebut berjari-jari 7 cm dan pi = 22/7. Besar sudut pusat juring tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "LING-14-B",
+    "indikator": 14,
+    "jawaban": "45°",
+    "level": "C3",
+    "materi": "Lingkaran",
+    "pembahasan": "Luas juring = sudut/360 x pi x r², jadi 77 = sudut/360 x 22/7 x 14 x 14 = sudut/360 x 616. Maka sudut/360 = 77/616 = 1/8, sehingga sudut = 45°.",
+    "pilihan": [
+      "30°",
+      "45°",
+      "90°",
+      "60°"
+    ],
+    "soal": "Sebuah juring memiliki luas 77 cm². Lingkaran tersebut berjari-jari 14 cm dan pi = 22/7. Besar sudut pusat juring tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "LING-15-A",
+    "indikator": 15,
+    "jawaban": "308 cm²",
+    "level": "C4",
+    "materi": "Lingkaran",
+    "pembahasan": "Luas juring setengah lingkaran = 1/2 x pi x r² = 1/2 x 22/7 x 14 x 14 cm² = 1/2 x 616 cm² = 308 cm².",
+    "pilihan": [
+      "616 cm²",
+      "154 cm²",
+      "308 cm²",
+      "44 cm²"
+    ],
+    "soal": "Luas juring setengah lingkaran yang berjari-jari 14 cm adalah .... (pi = 22/7)",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "LING-15-B",
+    "indikator": 15,
+    "jawaban": "462 cm²",
+    "level": "C4",
+    "materi": "Lingkaran",
+    "pembahasan": "Luas juring sepertiga lingkaran = 1/3 x pi x r² = 1/3 x 22/7 x 21 x 21 cm² = 1/3 x 1386 cm² = 462 cm².",
+    "pilihan": [
+      "924 cm²",
+      "231 cm²",
+      "1386 cm²",
+      "462 cm²"
+    ],
+    "soal": "Luas juring sepertiga lingkaran yang berjari-jari 21 cm adalah .... (pi = 22/7)",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BRSL-16-A",
+    "indikator": 16,
+    "jawaban": "Tabung",
+    "level": "C2",
+    "materi": "BRSL",
+    "pembahasan": "Dua lingkaran berfungsi sebagai alas dan tutup, sedangkan persegi panjang digulung menjadi selimut tabung. Jadi bangunnya adalah tabung.",
+    "pilihan": [
+      "Kerucut",
+      "Tabung",
+      "Bola",
+      "Prisma segitiga"
+    ],
+    "soal": "Perhatikan jaring-jaring berikut: jaring-jaring tersebut terdiri atas dua lingkaran yang sama besar dan sebuah persegi panjang. Bangun ruang sisi lengkung yang dapat dibentuk dari jaring-jaring tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BRSL-16-B",
+    "indikator": 16,
+    "jawaban": "Kerucut",
+    "level": "C2",
+    "materi": "BRSL",
+    "pembahasan": "Lingkaran menjadi alas kerucut dan juring lingkaran digulung menjadi selimut kerucut. Jadi bangunnya adalah kerucut.",
+    "pilihan": [
+      "Tabung",
+      "Bola",
+      "Kerucut",
+      "Limas segiempat"
+    ],
+    "soal": "Perhatikan jaring-jaring berikut: jaring-jaring tersebut terdiri atas sebuah lingkaran dan sebuah juring lingkaran. Bangun ruang sisi lengkung yang dapat dibentuk dari jaring-jaring tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BRSL-17-A",
+    "indikator": 17,
+    "jawaban": "748 cm²",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Luas permukaan tabung = 2 x pi x r x (r + t) = 2 x 22/7 x 7 x (7 + 10) = 44 x 17 = 748 cm².",
+    "pilihan": [
+      "660 cm²",
+      "748 cm²",
+      "836 cm²",
+      "594 cm²"
+    ],
+    "soal": "Sebuah kaleng susu berbentuk tabung tertutup memiliki jari-jari 7 cm dan tinggi 10 cm. Gunakan pi = 22/7. Luas permukaan kaleng tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BRSL-17-B",
+    "indikator": 17,
+    "jawaban": "616 cm²",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Luas permukaan bola = 4 x pi x r² = 4 x 22/7 x 7² = 4 x 22 x 7 = 616 cm².",
+    "pilihan": [
+      "308 cm²",
+      "154 cm²",
+      "616 cm²",
+      "1.232 cm²"
+    ],
+    "soal": "Sebuah bola sepak memiliki jari-jari 7 cm. Gunakan pi = 22/7. Luas permukaan bola tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BRSL-18-A",
+    "indikator": 18,
+    "jawaban": "1.540 cm³",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Volume tabung = pi x r² x t = 22/7 x 7² x 10 = 22 x 7 x 10 = 1.540 cm³.",
+    "pilihan": [
+      "154 cm³",
+      "770 cm³",
+      "1.540 cm³",
+      "3.080 cm³"
+    ],
+    "soal": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 10 cm. Gunakan pi = 22/7. Volume tabung tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BRSL-18-B",
+    "indikator": 18,
+    "jawaban": "616 cm³",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Volume kerucut = 1/3 x pi x r² x t = 1/3 x 22/7 x 7² x 12 = 1/3 x 1.848 = 616 cm³.",
+    "pilihan": [
+      "616 cm³",
+      "1.848 cm³",
+      "308 cm³",
+      "1.232 cm³"
+    ],
+    "soal": "Sebuah kerucut memiliki jari-jari 7 cm dan tinggi 12 cm. Gunakan pi = 22/7. Volume kerucut tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BRSL-19-A",
+    "indikator": 19,
+    "jawaban": "462 cm²",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Luas permukaan setengah bola padat = 3 x pi x r² = 3 x 22/7 x 7² = 3 x 22 x 7 = 462 cm². (Terdiri atas selimut setengah bola 2 x pi x r² dan alas lingkaran pi x r².)",
+    "pilihan": [
+      "308 cm²",
+      "462 cm²",
+      "616 cm²",
+      "154 cm²"
+    ],
+    "soal": "Sebuah benda berbentuk setengah bola padat memiliki jari-jari 7 cm. Gunakan pi = 22/7. Luas permukaan benda tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BRSL-19-B",
+    "indikator": 19,
+    "jawaban": "1.570 cm²",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Luas permukaan tabung = 2 x pi x r x (r + t) = 2 x 3,14 x 10 x (10 + 15) = 62,8 x 25 = 1.570 cm².",
+    "pilihan": [
+      "942 cm²",
+      "1.884 cm²",
+      "1.570 cm²",
+      "1.256 cm²"
+    ],
+    "soal": "Sebuah drum berbentuk tabung tertutup memiliki jari-jari 10 cm dan tinggi 15 cm. Gunakan pi = 3,14. Luas permukaan drum tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BRSL-20-A",
+    "indikator": 20,
+    "jawaban": "2.156 cm³",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Volume tabung = 22/7 x 7² x 10 = 1.540 cm³. Volume kerucut = 1/3 x 22/7 x 7² x 12 = 616 cm³. Jumlah = 1.540 + 616 = 2.156 cm³.",
+    "pilihan": [
+      "1.540 cm³",
+      "616 cm³",
+      "2.156 cm³",
+      "2.772 cm³"
+    ],
+    "soal": "Sebuah bangun gabungan terdiri atas tabung dan kerucut yang berhimpit. Jari-jari keduanya 7 cm. Tinggi tabung 10 cm dan tinggi kerucut 12 cm. Gunakan pi = 22/7. Volume bangun gabungan tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BRSL-20-B",
+    "indikator": 20,
+    "jawaban": "3.768 cm³",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Volume tabung = 3,14 x 10² x 8 = 2.512 cm³. Volume kerucut = 1/3 x 3,14 x 10² x 12 = 1.256 cm³. Jumlah = 2.512 + 1.256 = 3.768 cm³.",
+    "pilihan": [
+      "2.512 cm³",
+      "1.256 cm³",
+      "3.768 cm³",
+      "5.024 cm³"
+    ],
+    "soal": "Sebuah bangun gabungan terdiri atas tabung dan kerucut yang berhimpit. Jari-jari keduanya 10 cm. Tinggi tabung 8 cm dan tinggi kerucut 12 cm. Gunakan pi = 3,14. Volume bangun gabungan tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "SPLDV-21-A",
+    "indikator": 21,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Misalkan x harga baju dan y harga celana. Dari 2x + y = 250.000 dan x + y = 150.000, diperoleh x = 100.000. Substitusi ke x + y = 150.000, diperoleh y = 50.000. Jadi pernyataan tersebut benar.",
+    "soal": "Harga 2 baju dan sebuah celana adalah Rp250.000,00. Harga sebuah baju dan sebuah celana adalah Rp150.000,00. Pernyataan: Harga sebuah baju adalah Rp100.000,00 dan harga sebuah celana adalah Rp50.000,00.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "SPLDV-21-B",
+    "indikator": 21,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Misalkan x harga beras dan y harga minyak. Dari 3x + 2y = 95.000 dan x + 2y = 55.000, diperoleh 2x = 40.000, jadi x = 20.000. Substitusi ke x + 2y = 55.000, diperoleh 2y = 35.000, jadi y = 17.500. Harga minyak sebenarnya Rp17.500,00, bukan Rp20.000,00, jadi pernyataan tersebut salah.",
+    "soal": "Harga 3 kg beras dan 2 kg minyak goreng adalah Rp95.000,00. Harga 1 kg beras dan 2 kg minyak goreng adalah Rp55.000,00. Pernyataan: Harga 1 kg beras adalah Rp20.000,00 dan harga 1 kg minyak goreng adalah Rp20.000,00.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-22-A",
+    "indikator": 22,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Volume limas = 1/3 × luas alas × tinggi = 1/3 × (6 × 6) × 9 = 1/3 × 36 × 9 = 108 cm³. Jadi pernyataan tersebut benar.",
+    "soal": "Pernyataan: Limas segiempat dengan alas persegi berukuran 6 cm × 6 cm dan tinggi limas 9 cm memiliki volume 108 cm³.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-22-B",
+    "indikator": 22,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Volume limas = 1/3 × luas alas × tinggi = 1/3 × 20 × 12 = 80 cm³, bukan 240 cm³. Nilai 240 cm³ diperoleh jika lupa mengalikan dengan 1/3. Jadi pernyataan tersebut salah.",
+    "soal": "Pernyataan: Limas segitiga dengan luas alas 20 cm² dan tinggi 12 cm memiliki volume 240 cm³.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-23-A",
+    "indikator": 23,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Volume kubus sebanding dengan pangkat tiga rusuknya. Jika rusuk dikali 2, volume dikali 2³ = 8. Jadi pernyataan tersebut benar.",
+    "soal": "Pernyataan: Jika panjang rusuk kubus diperbesar 2 kali, volume kubus menjadi 8 kali volume semula.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-23-B",
+    "indikator": 23,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Volume kubus sebanding dengan pangkat tiga rusuknya. Jika rusuk dikali 3, volume dikali 3³ = 27, bukan 9. Nilai 9 adalah 3², yaitu faktor perubahan luas, bukan volume. Jadi pernyataan tersebut salah.",
+    "soal": "Pernyataan: Jika panjang rusuk kubus diperbesar 3 kali, volume kubus menjadi 9 kali volume semula.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "LING-24-A",
+    "indikator": 24,
+    "jawaban": "Benar",
+    "level": "C4",
+    "materi": "Lingkaran",
+    "pembahasan": "Panjang busur sebanding dengan sudut pusat. Perbandingan sudut pusat = 120° : 60° = 2 : 1, jadi panjang busur kedua = 2 x panjang busur pertama. Pernyataan tersebut benar.",
+    "soal": "Pada lingkaran yang sama terdapat dua juring. Sudut pusat juring pertama 60° dan sudut pusat juring kedua 120°. Pernyataan: Panjang busur juring kedua adalah dua kali panjang busur juring pertama.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "LING-24-B",
+    "indikator": 24,
+    "jawaban": "Salah",
+    "level": "C4",
+    "materi": "Lingkaran",
+    "pembahasan": "Panjang busur sebanding dengan sudut pusat. Perbandingan sudut pusat = 90° : 30° = 3 : 1, jadi panjang busur Q adalah tiga kali panjang busur P, bukan dua kali. Pernyataan tersebut salah.",
+    "soal": "Pada lingkaran yang sama terdapat dua juring. Sudut pusat juring P adalah 30° dan sudut pusat juring Q adalah 90°. Pernyataan: Panjang busur juring Q adalah dua kali panjang busur juring P.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "BRSL-25-A",
+    "indikator": 25,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Volume tabung V = pi x r² x t. Jika r menjadi 2r, V baru = pi x (2r)² x t = 4 x pi x r² x t = 4V. Jadi pernyataan benar.",
+    "soal": "Jika jari-jari sebuah tabung diperbesar 2 kali dan tingginya tetap, volume tabung menjadi 4 kali volume semula.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "BRSL-25-B",
+    "indikator": 25,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Volume kerucut V = 1/3 x pi x r² x t. Jika r menjadi 3r, V baru = 1/3 x pi x (3r)² x t = 9 x (1/3 x pi x r² x t) = 9V. Volume menjadi 9 kali, bukan 3 kali, jadi pernyataan salah.",
+    "soal": "Jika jari-jari sebuah kerucut diperbesar 3 kali dan tingginya tetap, volume kerucut menjadi 3 kali volume semula.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "SPLDV-26-A",
+    "indikator": 26,
+    "jawaban": "2x + y = 13",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Jumlahkan kedua persamaan: 2x = 10, jadi x = 5. Substitusi ke x + y = 8, diperoleh y = 3. Maka 2x + y = 2(5) + 3 = 13.",
+    "pilihan": [
+      "2x + y = 11",
+      "2x + y = 12",
+      "2x + y = 13",
+      "2x + y = 14"
+    ],
+    "soal": "Diberikan SPLDV x + y = 8 dan x − y = 2. Pasangkan SPLDV tersebut dengan nilai 2x + y yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "SPLDV-26-B",
+    "indikator": 26,
+    "jawaban": "3x + y = 15",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Jumlahkan kedua persamaan: 3x = 12, jadi x = 4. Substitusi ke x − y = 1, diperoleh y = 3. Maka 3x + y = 3(4) + 3 = 15.",
+    "pilihan": [
+      "3x + y = 13",
+      "3x + y = 14",
+      "3x + y = 16",
+      "3x + y = 15"
+    ],
+    "soal": "Diberikan SPLDV 2x + y = 11 dan x − y = 1. Pasangkan SPLDV tersebut dengan nilai 3x + y yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "SPLDV-27-A",
+    "indikator": 27,
+    "jawaban": "x = Rp20.000,00",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Dari 2x + y = 55.000 dan x + y = 35.000, kurangkan persamaan pertama dengan persamaan kedua: x = 20.000. Jadi harga 1 tiket anak adalah Rp20.000,00.",
+    "pilihan": [
+      "x = Rp15.000,00",
+      "x = Rp18.000,00",
+      "x = Rp20.000,00",
+      "x = Rp25.000,00"
+    ],
+    "soal": "Harga 2 tiket anak dan 1 tiket dewasa adalah Rp55.000,00. Harga 1 tiket anak dan 1 tiket dewasa adalah Rp35.000,00. Pasangkan permasalahan tersebut dengan harga 1 tiket anak (x) yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "SPLDV-27-B",
+    "indikator": 27,
+    "jawaban": "y = Rp24.000,00",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Misalkan x harga apel dan y harga mangga. Dari 3x + y = 60.000 dan x + y = 36.000, diperoleh 2x = 24.000, jadi x = 12.000. Substitusi ke x + y = 36.000, diperoleh y = 24.000. Jadi harga 1 kg mangga adalah Rp24.000,00.",
+    "pilihan": [
+      "y = Rp20.000,00",
+      "y = Rp24.000,00",
+      "y = Rp12.000,00",
+      "y = Rp28.000,00"
+    ],
+    "soal": "Harga 3 kg apel dan 1 kg mangga adalah Rp60.000,00. Harga 1 kg apel dan 1 kg mangga adalah Rp36.000,00. Pasangkan permasalahan tersebut dengan harga 1 kg mangga (y) yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-28-A",
+    "indikator": 28,
+    "jawaban": "Prisma segitiga – 16 cm",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Kerangka prisma segitiga memiliki 9 rusuk: 2 × (8 + 8 + 8) untuk kedua alas segitiga dan 3 × 12 untuk rusuk tegak. Panjang kawat yang dibutuhkan = 48 + 36 = 84 cm. Sisa kawat = 100 - 84 = 16 cm.",
+    "pilihan": [
+      "Prisma segitiga – 16 cm",
+      "Prisma segitiga – 24 cm",
+      "Prisma segitiga – 84 cm",
+      "Prisma segitiga – 100 cm"
+    ],
+    "soal": "Pasangkan kerangka bangun berikut dengan sisa kawat yang tepat. Sebuah kerangka prisma segitiga dibuat dari kawat. Alas prisma berbentuk segitiga sama sisi dengan panjang sisi 8 cm, dan tinggi prisma 12 cm. Kawat yang tersedia sepanjang 100 cm.",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-28-B",
+    "indikator": 28,
+    "jawaban": "Limas segiempat – 28 cm",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Kerangka limas segiempat memiliki 8 rusuk: 4 rusuk alas dan 4 rusuk tegak. Panjang kawat yang dibutuhkan = (4 × 10) + (4 × 13) = 40 + 52 = 92 cm. Sisa kawat = 120 - 92 = 28 cm.",
+    "pilihan": [
+      "Limas segiempat – 28 cm",
+      "Limas segiempat – 32 cm",
+      "Limas segiempat – 92 cm",
+      "Limas segiempat – 120 cm"
+    ],
+    "soal": "Pasangkan kerangka bangun berikut dengan sisa kawat yang tepat. Sebuah kerangka limas segiempat dibuat dari kawat. Alas limas berbentuk persegi dengan panjang sisi 10 cm, dan panjang rusuk tegak limas 13 cm. Kawat yang tersedia sepanjang 120 cm.",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "LING-29-A",
+    "indikator": 29,
+    "jawaban": "180° – 77 cm²",
+    "level": "C3",
+    "materi": "Lingkaran",
+    "pembahasan": "Luas lingkaran = 22/7 x 7 x 7 = 154 cm². Luas juring kedua = 180/360 x 154 cm² = 1/2 x 154 cm² = 77 cm², jadi pasangan yang tepat adalah 180° – 77 cm².",
+    "pilihan": [
+      "180° – 38,5 cm²",
+      "180° – 77 cm²",
+      "180° – 154 cm²",
+      "90° – 77 cm²"
+    ],
+    "soal": "Perhatikan dua juring pada lingkaran yang sama. Lingkaran berjari-jari 7 cm dan pi = 22/7. Juring pertama memiliki sudut pusat 90° dan luas 38,5 cm². Juring kedua memiliki sudut pusat 180°. Pasangkan sudut pusat dan luas juring kedua yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "LING-29-B",
+    "indikator": 29,
+    "jawaban": "270° – 462 cm²",
+    "level": "C3",
+    "materi": "Lingkaran",
+    "pembahasan": "Luas lingkaran = 22/7 x 14 x 14 = 616 cm². Luas juring kedua = 270/360 x 616 cm² = 3/4 x 616 cm² = 462 cm², jadi pasangan yang tepat adalah 270° – 462 cm².",
+    "pilihan": [
+      "270° – 154 cm²",
+      "270° – 308 cm²",
+      "270° – 462 cm²",
+      "270° – 616 cm²"
+    ],
+    "soal": "Perhatikan dua juring pada lingkaran yang sama. Lingkaran berjari-jari 14 cm dan pi = 22/7. Juring pertama memiliki sudut pusat 90° dan luas 154 cm². Juring kedua memiliki sudut pusat 270°. Pasangkan sudut pusat dan luas juring kedua yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "BRSL-30-A",
+    "indikator": 30,
+    "jawaban": "7 cm dan 14 cm",
+    "level": "C4",
+    "materi": "BRSL",
+    "pembahasan": "Jari-jari A: r² = V / (pi x t) = 1.540 / (22/7 x 10) = 49, jadi r = 7 cm. Volume B 4 kali volume A dengan tinggi sama, maka r² B = 4 x 49 = 196, jadi r = 14 cm.",
+    "pilihan": [
+      "7 cm dan 28 cm",
+      "7 cm dan 14 cm",
+      "7 cm dan 10,5 cm",
+      "14 cm dan 7 cm"
+    ],
+    "soal": "Pasangkan pernyataan berikut dengan jawaban yang tepat. Tabung A dan tabung B memiliki tinggi yang sama, yaitu 10 cm. Volume tabung A adalah 1.540 cm³ dan volume tabung B adalah 6.160 cm³. Gunakan pi = 22/7. Pasangan jari-jari tabung A dan tabung B yang tepat adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "BRSL-30-B",
+    "indikator": 30,
+    "jawaban": "7 cm dan 10,5 cm",
+    "level": "C4",
+    "materi": "BRSL",
+    "pembahasan": "Jari-jari A: 616 = 1/3 x 22/7 x r² x 12, diperoleh r² = 49, jadi r = 7 cm. Volume B = 1.386 / 616 = 9/4 kali volume A, maka r B = 3/2 x 7 = 10,5 cm.",
+    "pilihan": [
+      "7 cm dan 14 cm",
+      "7 cm dan 21 cm",
+      "7 cm dan 10,5 cm",
+      "10,5 cm dan 7 cm"
+    ],
+    "soal": "Pasangkan pernyataan berikut dengan jawaban yang tepat. Kerucut A dan kerucut B memiliki tinggi yang sama, yaitu 12 cm. Volume kerucut A adalah 616 cm³ dan volume kerucut B adalah 1.386 cm³. Gunakan pi = 22/7. Pasangan jari-jari kerucut A dan kerucut B yang tepat adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "SPLDV-31-A",
+    "indikator": 31,
+    "jawaban": "23000",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Misalkan x harga buku dan y harga pensil. Dari 2x + y = 14.000 dan x + y = 9.000, diperoleh x = 5.000. Substitusi ke x + y = 9.000, diperoleh y = 4.000. Total 3 buku dan 2 pensil adalah 3(5.000) + 2(4.000) = 15.000 + 8.000 = 23.000.",
+    "soal": "Harga 2 buku tulis dan sebuah pensil adalah Rp14.000,00. Harga sebuah buku tulis dan sebuah pensil adalah Rp9.000,00. Berapa total harga 3 buku tulis dan 2 pensil? Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "SPLDV-31-B",
+    "indikator": 31,
+    "jawaban": "94000",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Misalkan x harga telur dan y harga gula. Dari 2x + y = 42.000 dan x + y = 26.000, diperoleh x = 16.000. Substitusi ke x + y = 26.000, diperoleh y = 10.000. Total 4 kg telur dan 3 kg gula adalah 4(16.000) + 3(10.000) = 64.000 + 30.000 = 94.000.",
+    "soal": "Harga 2 kg telur dan 1 kg gula adalah Rp42.000,00. Harga 1 kg telur dan 1 kg gula adalah Rp26.000,00. Berapa total harga 4 kg telur dan 3 kg gula? Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-32-A",
+    "indikator": 32,
+    "jawaban": "800",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Luas alas segitiga = 1/2 × 10 × 8 = 40 cm². Volume prisma = 40 × 20 = 800 cm³.",
+    "soal": "Sebuah prisma segitiga memiliki alas segitiga dengan panjang alas 10 cm dan tinggi segitiga 8 cm. Tinggi prisma tersebut 20 cm. Tentukan volume prisma tersebut dalam cm³. (Tuliskan angka saja, tanpa satuan.)",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-32-B",
+    "indikator": 32,
+    "jawaban": "540",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Luas alas segitiga = 1/2 × 12 × 9 = 54 cm². Volume prisma = 54 × 10 = 540 cm³.",
+    "soal": "Sebuah prisma segitiga memiliki alas segitiga dengan panjang alas 12 cm dan tinggi segitiga 9 cm. Tinggi prisma tersebut 10 cm. Tentukan volume prisma tersebut dalam cm³. (Tuliskan angka saja, tanpa satuan.)",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "LING-33-A",
+    "indikator": 33,
+    "jawaban": "40",
+    "level": "C2",
+    "materi": "Lingkaran",
+    "pembahasan": "Sudut keliling = 1/2 x sudut pusat yang menghadap busur yang sama = 1/2 x 80° = 40°.",
+    "soal": "Sudut pusat sebuah lingkaran adalah 80°. Besar sudut keliling yang menghadap busur yang sama adalah .... derajat.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "LING-33-B",
+    "indikator": 33,
+    "jawaban": "60",
+    "level": "C2",
+    "materi": "Lingkaran",
+    "pembahasan": "Sudut keliling = 1/2 x sudut pusat yang menghadap busur yang sama = 1/2 x 120° = 60°.",
+    "soal": "Sudut pusat sebuah lingkaran adalah 120°. Besar sudut keliling yang menghadap busur yang sama adalah .... derajat.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "BRSL-34-A",
+    "indikator": 34,
+    "jawaban": "440",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Luas selimut tabung = 2 x pi x r x t = 2 x 22/7 x 7 x 10 = 440 cm².",
+    "soal": "Sebuah tabung memiliki jari-jari 7 cm dan tinggi 10 cm. Gunakan pi = 22/7. Luas selimut tabung tersebut adalah ... cm². (Jawaban angka saja)",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "BRSL-34-B",
+    "indikator": 34,
+    "jawaban": "550",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Luas selimut kerucut = pi x r x s = 22/7 x 7 x 25 = 550 cm².",
+    "soal": "Sebuah kerucut memiliki jari-jari 7 cm dan garis pelukis 25 cm. Gunakan pi = 22/7. Luas selimut kerucut tersebut adalah ... cm². (Jawaban angka saja)",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "BRSL-35-A",
+    "indikator": 35,
+    "jawaban": "1694",
+    "level": "C4",
+    "materi": "BRSL",
+    "pembahasan": "Volume tabung = 22/7 x 7² x 8 = 1.232 cm³. Volume kerucut = 1/3 x 22/7 x 7² x 9 = 462 cm³. Jumlah = 1.232 + 462 = 1.694 cm³.",
+    "soal": "Sebuah bangun gabungan terdiri atas tabung dan kerucut yang berhimpit. Jari-jari keduanya 7 cm. Tinggi tabung 8 cm dan tinggi kerucut 9 cm. Gunakan pi = 22/7. Volume bangun gabungan tersebut adalah ... cm³. (Jawaban angka saja)",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "BRSL-35-B",
+    "indikator": 35,
+    "jawaban": "2512",
+    "level": "C4",
+    "materi": "BRSL",
+    "pembahasan": "Volume tabung = 3,14 x 10² x 5 = 1.570 cm³. Volume kerucut = 1/3 x 3,14 x 10² x 9 = 942 cm³. Jumlah = 1.570 + 942 = 2.512 cm³.",
+    "soal": "Sebuah bangun gabungan terdiri atas tabung dan kerucut yang berhimpit. Jari-jari keduanya 10 cm. Tinggi tabung 5 cm dan tinggi kerucut 9 cm. Gunakan pi = 3,14. Volume bangun gabungan tersebut adalah ... cm³. (Jawaban angka saja)",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "SPLDV-36-A",
+    "indikator": 36,
+    "jawaban": "Harga pensil x = Rp3.000,00, harga buku y = Rp5.000,00, sehingga 2x + 3y = Rp21.000,00.",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Model: 3x + 2y = 19.000 dan x + 2y = 13.000. Kurangkan persamaan pertama dengan persamaan kedua: 2x = 6.000, jadi x = 3.000. Substitusi x = 3.000 ke x + 2y = 13.000: 3.000 + 2y = 13.000, jadi 2y = 10.000 dan y = 5.000. Maka 2x + 3y = 2(3.000) + 3(5.000) = 6.000 + 15.000 = 21.000.",
+    "soal": "Harga 3 pensil dan 2 buku tulis adalah Rp19.000,00. Harga sebuah pensil dan 2 buku tulis adalah Rp13.000,00. Jika x menyatakan harga sebuah pensil dan y menyatakan harga sebuah buku tulis, tentukan nilai dari 2x + 3y. Tuliskan langkah penyelesaianmu.",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "SPLDV-36-B",
+    "indikator": 36,
+    "jawaban": "Harga mangga x = Rp14.000,00, harga apel y = Rp8.000,00, sehingga 3x + 2y = Rp58.000,00.",
+    "level": "C3",
+    "materi": "SPLDV",
+    "pembahasan": "Model: 2x + y = 36.000 dan x + y = 22.000. Kurangkan persamaan pertama dengan persamaan kedua: x = 14.000. Substitusi x = 14.000 ke x + y = 22.000, diperoleh y = 8.000. Maka 3x + 2y = 3(14.000) + 2(8.000) = 42.000 + 16.000 = 58.000.",
+    "soal": "Harga 2 kg mangga dan 1 kg apel adalah Rp36.000,00. Harga 1 kg mangga dan 1 kg apel adalah Rp22.000,00. Jika x menyatakan harga 1 kg mangga dan y menyatakan harga 1 kg apel, tentukan nilai dari 3x + 2y. Tuliskan langkah penyelesaianmu.",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-37-A",
+    "indikator": 37,
+    "jawaban": "700 cm²",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Luas permukaan balok = 2 × (panjang × lebar + panjang × tinggi + lebar × tinggi) = 2 × (15 × 10 + 15 × 8 + 10 × 8) = 2 × (150 + 120 + 80) = 2 × 350 = 700 cm². Jadi, luas permukaan kotak kado tersebut adalah 700 cm².",
+    "soal": "Sebuah kotak kado berbentuk balok berukuran panjang 15 cm, lebar 10 cm, dan tinggi 8 cm. Hitunglah luas permukaan kotak kado tersebut. Tuliskan langkah penyelesaiannya.",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-37-B",
+    "indikator": 37,
+    "jawaban": "486 cm²",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Luas permukaan kubus = 6 × rusuk² = 6 × 9² = 6 × 81 = 486 cm². Jadi, luas permukaan dadu tersebut adalah 486 cm².",
+    "soal": "Sebuah dadu berbentuk kubus memiliki panjang rusuk 9 cm. Hitunglah luas permukaan dadu tersebut. Tuliskan langkah penyelesaiannya.",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "BRSD-38-A",
+    "indikator": 38,
+    "jawaban": "304 cm³",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Volume balok = 10 × 6 × 4 = 240 cm³. Volume kubus = 4 × 4 × 4 = 64 cm³. Volume gabungan = 240 + 64 = 304 cm³. Jadi, volume bangun gabungan tersebut adalah 304 cm³.",
+    "soal": "Sebuah bangun gabungan terdiri dari sebuah balok berukuran panjang 10 cm, lebar 6 cm, dan tinggi 4 cm, serta sebuah kubus dengan panjang rusuk 4 cm yang diletakkan di atas balok tersebut. Hitunglah volume bangun gabungan tersebut. Tuliskan langkah penyelesaiannya.",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "BRSD-38-B",
+    "indikator": 38,
+    "jawaban": "456 cm³",
+    "level": "C3",
+    "materi": "BRSD",
+    "pembahasan": "Volume kubus = 6 × 6 × 6 = 216 cm³. Volume balok = 8 × 6 × 5 = 240 cm³. Volume gabungan = 216 + 240 = 456 cm³. Jadi, volume bangun gabungan tersebut adalah 456 cm³.",
+    "soal": "Sebuah bangun gabungan terdiri dari sebuah kubus dengan panjang rusuk 6 cm dan sebuah balok berukuran panjang 8 cm, lebar 6 cm, dan tinggi 5 cm yang digabungkan. Hitunglah volume bangun gabungan tersebut. Tuliskan langkah penyelesaiannya.",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "LING-39-A",
+    "indikator": 39,
+    "jawaban": "Keliling = 22/7 x 28 cm = 88 cm",
+    "level": "C3",
+    "materi": "Lingkaran",
+    "pembahasan": "Diketahui diameter piring 28 cm dan pi = 22/7. Keliling lingkaran = pi x diameter = 22/7 x 28 cm = 88 cm. Jadi, keliling piring tersebut adalah 88 cm.",
+    "soal": "Perhatikan sebuah piring berbentuk lingkaran berdiameter 28 cm. Hitunglah keliling piring tersebut jika pi = 22/7. Tuliskan langkah penyelesaiannya.",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "LING-39-B",
+    "indikator": 39,
+    "jawaban": "Keliling = 2 x 22/7 x 21 cm = 132 cm",
+    "level": "C3",
+    "materi": "Lingkaran",
+    "pembahasan": "Diketahui jari-jari tutup wadah 21 cm dan pi = 22/7. Keliling lingkaran = 2 x pi x jari-jari = 2 x 22/7 x 21 cm = 132 cm. Jadi, keliling tutup wadah tersebut adalah 132 cm.",
+    "soal": "Perhatikan sebuah tutup wadah berbentuk lingkaran berjari-jari 21 cm. Hitunglah keliling tutup wadah tersebut jika pi = 22/7. Tuliskan langkah penyelesaiannya.",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "BRSL-40-A",
+    "indikator": 40,
+    "jawaban": "30.800 cm³",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Diketahui r = 14 cm, t = 50 cm, pi = 22/7. Volume tabung = pi x r² x t = 22/7 x 14² x 50 = 22/7 x 196 x 50 = 616 x 50 = 30.800 cm³. Jadi volume drum minyak tersebut adalah 30.800 cm³.",
+    "soal": "Sebuah drum minyak berbentuk tabung memiliki jari-jari 14 cm dan tinggi 50 cm. Gunakan pi = 22/7. Hitunglah volume drum minyak tersebut!",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "BRSL-40-B",
+    "indikator": 40,
+    "jawaban": "6.160 cm³",
+    "level": "C3",
+    "materi": "BRSL",
+    "pembahasan": "Diketahui r = 14 cm, t = 30 cm, pi = 22/7. Volume kerucut = 1/3 x pi x r² x t = 1/3 x 22/7 x 14² x 30 = 1/3 x 616 x 30 = 6.160 cm³. Jadi volume tumpeng tersebut adalah 6.160 cm³.",
+    "soal": "Sebuah tumpeng berbentuk kerucut memiliki jari-jari 14 cm dan tinggi 30 cm. Gunakan pi = 22/7. Hitunglah volume tumpeng tersebut!",
+    "tipe": "Uraian",
+    "varian": "B"
+  }
+]
