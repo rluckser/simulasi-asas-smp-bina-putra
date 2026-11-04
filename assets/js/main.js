@@ -162,6 +162,17 @@
     $('q-materi').textContent = materiLabel[q.materi] || q.materi;
     $('q-text').textContent = q.soal;
 
+    var card = $('q-text').parentNode;
+    var oldImg = card.querySelector('.question-image');
+    if (oldImg) oldImg.remove();
+    if (q.gambar) {
+      var qimg = document.createElement('img');
+      qimg.className = 'question-image';
+      qimg.src = q.gambar;
+      qimg.alt = 'Gambar soal ' + q.id;
+      card.insertBefore(qimg, $('q-input'));
+    }
+
     var box = $('q-input');
     box.innerHTML = '';
     var saved = answers[current];
@@ -257,6 +268,14 @@
       head.appendChild(verdict);
       item.appendChild(head);
       item.appendChild(el('p', q.soal, 'review-q'));
+
+      if (q.gambar) {
+        var rimg = document.createElement('img');
+        rimg.className = 'question-image';
+        rimg.src = q.gambar;
+        rimg.alt = 'Gambar soal ' + q.id;
+        item.appendChild(rimg);
+      }
 
       var ans = el('p', null, 'review-answer');
       ans.appendChild(el('strong', 'Jawabanmu: '));
