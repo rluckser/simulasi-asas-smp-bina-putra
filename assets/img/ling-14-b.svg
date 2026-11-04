@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Juring lingkaran, jari-jari 14 cm, luas juring 77 cm persegi</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<circle cx="200" cy="170" r="110" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+<path d="M200,170 L310,170 A110,110 0 0 1 278,92 Z" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="200" y1="170" x2="310" y2="170" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="200" y1="170" x2="278" y2="92" stroke="#1d4ed8" stroke-width="2"/>
+<circle cx="200" cy="170" r="4" fill="#1f2a37"/>
+<text x="300" y="58" font-size="15" fill="#1d4ed8" text-anchor="middle" font-weight="bold">Luas = 77 cm²</text>
+<text x="245" y="158" font-size="15" fill="#1d4ed8" text-anchor="middle" font-weight="bold">r = 14 cm</text>
+<text x="220" y="132" font-size="26" fill="#1d4ed8" text-anchor="middle" font-weight="bold">?</text>
+</g>
+</svg>

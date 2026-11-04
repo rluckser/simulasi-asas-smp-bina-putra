@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Tumpeng kerucut, jari-jari 14 cm, tinggi 30 cm</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<polygon points="200,50 95,245 305,245" fill="#dbeafe" stroke="#1f2a37" stroke-width="2"/>
+<path d="M95,245 A105,26 0 0 0 305,245" fill="none" stroke="#1f2a37" stroke-width="2"/>
+<line x1="200" y1="50" x2="200" y2="245" stroke="#166534" stroke-width="1.5" stroke-dasharray="5,4"/>
+<line x1="200" y1="245" x2="305" y2="245" stroke="#1d4ed8" stroke-width="2"/>
+<text x="212" y="150" font-size="15" fill="#166534" text-anchor="start" font-weight="bold">t = 30 cm</text>
+<text x="248" y="232" font-size="15" fill="#1d4ed8" text-anchor="middle" font-weight="bold">r = 14 cm</text>
+</g>
+</svg>

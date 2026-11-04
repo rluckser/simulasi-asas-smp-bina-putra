@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Balok 12 cm x 8 cm x 5 cm</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<polygon points="80,130 120,95 320,95 280,130" fill="#eff6ff" stroke="#1f2a37" stroke-width="2"/>
+<polygon points="280,130 320,95 320,185 280,220" fill="#bfdbfe" stroke="#1f2a37" stroke-width="2"/>
+<rect x="80" y="130" width="200" height="90" fill="#dbeafe" stroke="#1f2a37" stroke-width="2"/>
+<line x1="80" y1="240" x2="280" y2="240" stroke="#166534" stroke-width="1.5"/>
+<line x1="80" y1="236" x2="80" y2="244" stroke="#166534" stroke-width="1.5"/>
+<line x1="280" y1="236" x2="280" y2="244" stroke="#166534" stroke-width="1.5"/>
+<text x="180" y="260" font-size="15" fill="#166534" text-anchor="middle" font-weight="bold">12 cm</text>
+<line x1="302" y1="130" x2="302" y2="220" stroke="#166534" stroke-width="1.5"/>
+<line x1="298" y1="130" x2="306" y2="130" stroke="#166534" stroke-width="1.5"/>
+<line x1="298" y1="220" x2="306" y2="220" stroke="#166534" stroke-width="1.5"/>
+<text x="310" y="180" font-size="15" fill="#166534" text-anchor="start" font-weight="bold">5 cm</text>
+<line x1="288" y1="124" x2="318" y2="98" stroke="#166534" stroke-width="1.5"/>
+<text x="332" y="96" font-size="15" fill="#166534" text-anchor="start" font-weight="bold">8 cm</text>
+</g>
+</svg>

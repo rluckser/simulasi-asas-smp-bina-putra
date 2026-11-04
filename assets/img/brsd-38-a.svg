@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Balok 10x6x4 cm dengan kubus rusuk 4 cm di atasnya</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<polygon points="60,185 90,160 320,160 290,185" fill="#eff6ff" stroke="#1f2a37" stroke-width="2"/>
+<polygon points="290,185 320,160 320,230 290,255" fill="#bfdbfe" stroke="#1f2a37" stroke-width="2"/>
+<rect x="60" y="185" width="230" height="70" fill="#dbeafe" stroke="#1f2a37" stroke-width="2"/>
+<polygon points="140,95 165,72 235,72 210,95" fill="#f0fdf4" stroke="#1f2a37" stroke-width="2"/>
+<polygon points="210,95 235,72 235,142 210,165" fill="#bbf7d0" stroke="#1f2a37" stroke-width="2"/>
+<rect x="140" y="95" width="70" height="70" fill="#dcfce7" stroke="#1f2a37" stroke-width="2"/>
+<line x1="60" y1="272" x2="290" y2="272" stroke="#166534" stroke-width="1.5"/>
+<line x1="60" y1="268" x2="60" y2="276" stroke="#166534" stroke-width="1.5"/>
+<line x1="290" y1="268" x2="290" y2="276" stroke="#166534" stroke-width="1.5"/>
+<text x="175" y="292" font-size="15" fill="#166534" text-anchor="middle" font-weight="bold">10 cm</text>
+<line x1="330" y1="185" x2="330" y2="255" stroke="#166534" stroke-width="1.5"/>
+<line x1="326" y1="185" x2="334" y2="185" stroke="#166534" stroke-width="1.5"/>
+<line x1="326" y1="255" x2="334" y2="255" stroke="#166534" stroke-width="1.5"/>
+<text x="338" y="225" font-size="15" fill="#166534" text-anchor="start" font-weight="bold">4 cm</text>
+<text x="242" y="132" font-size="15" fill="#166534" text-anchor="start" font-weight="bold">rusuk 4 cm</text>
+<text x="298" y="148" font-size="15" fill="#166534" text-anchor="start" font-weight="bold">6 cm</text>
+</g>
+</svg>
