@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "BERP-01-A",
+    "indikator": 1,
+    "jawaban": "5⁴",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "Perkalian berulang 5 × 5 × 5 × 5 mempunyai bilangan pokok 5 yang dikalikan sebanyak 4 kali, sehingga bentuk perpangkatannya adalah 5⁴.",
+    "pilihan": [
+      "5⁴",
+      "4⁵",
+      "5 × 4",
+      "4 × 5"
+    ],
+    "soal": "Perkalian berulang 5 × 5 × 5 × 5 dapat dinyatakan dalam bentuk perpangkatan ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-01-B",
+    "indikator": 1,
+    "jawaban": "3⁵",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "Perkalian berulang 3 × 3 × 3 × 3 × 3 mempunyai bilangan pokok 3 yang dikalikan sebanyak 5 kali, sehingga bentuk perpangkatannya adalah 3⁵.",
+    "pilihan": [
+      "3⁵",
+      "5³",
+      "3 × 5",
+      "5 × 3"
+    ],
+    "soal": "Perkalian berulang 3 × 3 × 3 × 3 × 3 dapat dinyatakan dalam bentuk perpangkatan ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-02-A",
+    "indikator": 2,
+    "jawaban": "(1) dan (2)",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "Pernyataan (1) benar karena 2³ × 2² = 2³⁺² = 2⁵. Pernyataan (2) benar karena 3⁴ ÷ 3 = 3⁴⁻¹ = 3³. Pernyataan (3) salah karena (5²)³ = 5⁶, bukan 5⁵. Pernyataan (4) salah karena 4⁰ = 1, bukan 0. Jadi pernyataan yang benar adalah (1) dan (2).",
+    "pilihan": [
+      "(1) dan (2)",
+      "(1) dan (3)",
+      "(2) dan (4)",
+      "(3) dan (4)"
+    ],
+    "soal": "Perhatikan pernyataan berikut. (1) 2³ × 2² = 2⁵ (2) 3⁴ ÷ 3 = 3³ (3) (5²)³ = 5⁵ (4) 4⁰ = 0. Pernyataan yang benar tentang sifat-sifat bilangan berpangkat adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-02-B",
+    "indikator": 2,
+    "jawaban": "(2) dan (3)",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "Pernyataan (1) salah karena 7² × 7³ = 7⁵, bukan 7⁶. Pernyataan (2) benar karena (2³)² = 2³ˣ² = 2⁶. Pernyataan (3) benar karena 5⁰ = 1. Pernyataan (4) salah karena 6² ÷ 6² = 6⁰ = 1, bukan 6. Jadi pernyataan yang benar adalah (2) dan (3).",
+    "pilihan": [
+      "(1) dan (2)",
+      "(2) dan (3)",
+      "(1) dan (4)",
+      "(3) dan (4)"
+    ],
+    "soal": "Perhatikan pernyataan berikut. (1) 7² × 7³ = 7⁶ (2) (2³)² = 2⁶ (3) 5⁰ = 1 (4) 6² ÷ 6² = 6. Pernyataan yang benar tentang sifat-sifat bilangan berpangkat adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-03-A",
+    "indikator": 3,
+    "jawaban": "4/9",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "(2/3)² = 2²/3² = 4/9.",
+    "pilihan": [
+      "4/9",
+      "2/9",
+      "4/3",
+      "6/9"
+    ],
+    "soal": "Hasil dari (2/3)² adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-03-B",
+    "indikator": 3,
+    "jawaban": "27/64",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "(3/4)³ = 3³/4³ = 27/64.",
+    "pilihan": [
+      "27/64",
+      "9/64",
+      "27/12",
+      "9/12"
+    ],
+    "soal": "Hasil dari (3/4)³ adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-04-A",
+    "indikator": 4,
+    "jawaban": "12",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "2³ + 3² − 5 = 8 + 9 − 5 = 12.",
+    "pilihan": [
+      "12",
+      "10",
+      "22",
+      "17"
+    ],
+    "soal": "Hasil dari 2³ + 3² − 5 adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-04-B",
+    "indikator": 4,
+    "jawaban": "21",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "5² − 2³ + 4 = 25 − 8 + 4 = 21.",
+    "pilihan": [
+      "21",
+      "29",
+      "17",
+      "13"
+    ],
+    "soal": "Hasil dari 5² − 2³ + 4 adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-05-A",
+    "indikator": 5,
+    "jawaban": "2√3",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "6/√3 = (6 × √3)/(√3 × √3) = 6√3/3 = 2√3.",
+    "pilihan": [
+      "2√3",
+      "6√3",
+      "3√3",
+      "√3"
+    ],
+    "soal": "Bentuk sederhana dari 6/√3 adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-05-B",
+    "indikator": 5,
+    "jawaban": "2√5",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "10/√5 = (10 × √5)/(√5 × √5) = 10√5/5 = 2√5.",
+    "pilihan": [
+      "2√5",
+      "5√5",
+      "10√5",
+      "√5"
+    ],
+    "soal": "Bentuk sederhana dari 10/√5 adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-06-A",
+    "indikator": 6,
+    "jawaban": "4,5 × 10¹¹",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "450.000.000.000 = 4,5 × 100.000.000.000 = 4,5 × 10¹¹.",
+    "pilihan": [
+      "4,5 × 10¹¹",
+      "45 × 10¹⁰",
+      "4,5 × 10¹²",
+      "0,45 × 10¹²"
+    ],
+    "soal": "Bentuk notasi ilmiah dari bilangan 450.000.000.000 adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-06-B",
+    "indikator": 6,
+    "jawaban": "7,2 × 10¹¹",
+    "level": "C2",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "720.000.000.000 = 7,2 × 100.000.000.000 = 7,2 × 10¹¹.",
+    "pilihan": [
+      "7,2 × 10¹¹",
+      "72 × 10¹⁰",
+      "7,2 × 10¹²",
+      "0,72 × 10¹²"
+    ],
+    "soal": "Bentuk notasi ilmiah dari bilangan 720.000.000.000 adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PYT-07-A",
+    "indikator": 7,
+    "jawaban": "(1) dan (2)",
+    "level": "C2",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Pada segitiga siku-siku ABC yang siku-siku di C, sisi AB adalah sisi miring. Pernyataan (1) benar karena sisi miring terletak di depan sudut siku-siku. Pernyataan (2) benar karena menurut teorema Pythagoras c² = a² + b². Pernyataan (3) salah karena a² = c² − b², bukan c² + b². Pernyataan (4) salah karena sisi miring adalah sisi terpanjang. Jadi pernyataan yang benar adalah (1) dan (2).",
+    "pilihan": [
+      "(1) dan (2)",
+      "(1) dan (3)",
+      "(2) dan (4)",
+      "(3) dan (4)"
+    ],
+    "soal": "Perhatikan gambar segitiga siku-siku ABC berikut. Segitiga ABC siku-siku di C, dengan BC = a = 3 cm, AC = b = 4 cm, dan AB = c = 5 cm. Perhatikan pernyataan berikut. (1) Sisi miring adalah sisi di depan sudut siku-siku. (2) c² = a² + b². (3) a² = c² + b². (4) Sisi miring adalah sisi terpendek. Pernyataan yang benar mengenai teorema Pythagoras adalah ....",
+    "tipe": "PG",
+    "varian": "A",
+    "gambar": "assets/img/pyt-07-a.svg"
+  },
+  {
+    "id": "PYT-07-B",
+    "indikator": 7,
+    "jawaban": "(2) dan (3)",
+    "level": "C2",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Pada segitiga siku-siku PQR yang siku-siku di Q, sisi PR adalah sisi miring. Pernyataan (1) salah karena sisi miring terletak di depan sudut siku-siku, bukan sudut lancip. Pernyataan (2) benar karena kuadrat sisi miring sama dengan jumlah kuadrat kedua sisi siku-sikunya. Pernyataan (3) benar karena 10² = 100 dan 6² + 8² = 36 + 64 = 100. Pernyataan (4) salah karena sisi miring adalah sisi terpanjang. Jadi pernyataan yang benar adalah (2) dan (3).",
+    "pilihan": [
+      "(1) dan (2)",
+      "(2) dan (3)",
+      "(1) dan (4)",
+      "(3) dan (4)"
+    ],
+    "soal": "Perhatikan gambar segitiga siku-siku PQR berikut. Segitiga PQR siku-siku di Q, dengan PQ = 6 cm, QR = 8 cm, dan PR = 10 cm. Perhatikan pernyataan berikut. (1) Sisi miring adalah sisi di depan sudut lancip. (2) Kuadrat sisi miring sama dengan jumlah kuadrat sisi-sisi siku-sikunya. (3) 10² = 6² + 8². (4) Sisi miring lebih pendek daripada sisi siku-siku. Pernyataan yang benar mengenai teorema Pythagoras adalah ....",
+    "tipe": "PG",
+    "varian": "B",
+    "gambar": "assets/img/pyt-07-b.svg"
+  },
+  {
+    "id": "PYT-08-A",
+    "indikator": 8,
+    "jawaban": "10 cm",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Sisi miring c = √(6² + 8²) = √(36 + 64) = √100 = 10 cm.",
+    "pilihan": [
+      "10 cm",
+      "12 cm",
+      "14 cm",
+      "9 cm"
+    ],
+    "soal": "Sebuah segitiga siku-siku mempunyai sisi siku-siku 6 cm dan 8 cm. Panjang sisi miring segitiga tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PYT-08-B",
+    "indikator": 8,
+    "jawaban": "12 cm",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Sisi siku-siku yang belum diketahui = √(13² − 5²) = √(169 − 25) = √144 = 12 cm.",
+    "pilihan": [
+      "12 cm",
+      "11 cm",
+      "8 cm",
+      "18 cm"
+    ],
+    "soal": "Sebuah segitiga siku-siku mempunyai sisi miring 13 cm dan salah satu sisi siku-sikunya 5 cm. Panjang sisi siku-siku yang lain adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PYT-09-A",
+    "indikator": 9,
+    "jawaban": "25 cm",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Sisi miring segitiga pertama = √(9² + 12²) = √(81 + 144) = √225 = 15 cm. Segitiga kedua berimpit pada sisi 15 cm, sehingga sisi miringnya = √(15² + 20²) = √(225 + 400) = √625 = 25 cm.",
+    "pilihan": [
+      "25 cm",
+      "21 cm",
+      "29 cm",
+      "15 cm"
+    ],
+    "soal": "Perhatikan tiga segitiga siku-siku yang berimpit pada gambar berikut. Segitiga pertama mempunyai sisi siku-siku 9 cm dan 12 cm. Segitiga kedua berimpit dengan segitiga pertama pada sisi miringnya dan mempunyai sisi siku-siku yang lain 20 cm. Segitiga ketiga berimpit dengan segitiga kedua pada sisi miringnya dan mempunyai sisi siku-siku yang lain 60 cm. Panjang sisi miring segitiga kedua adalah ....",
+    "tipe": "PG",
+    "varian": "A",
+    "gambar": "assets/img/pyt-09-a.svg"
+  },
+  {
+    "id": "PYT-09-B",
+    "indikator": 9,
+    "jawaban": "85 cm",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Sisi miring segitiga pertama = √(3² + 4²) = √(9 + 16) = √25 = 5 cm. Sisi miring segitiga kedua = √(5² + 12²) = √(25 + 144) = √169 = 13 cm. Segitiga ketiga berimpit pada sisi 13 cm, sehingga sisi miringnya = √(13² + 84²) = √(169 + 7056) = √7225 = 85 cm.",
+    "pilihan": [
+      "85 cm",
+      "84 cm",
+      "97 cm",
+      "72 cm"
+    ],
+    "soal": "Perhatikan tiga segitiga siku-siku yang berimpit pada gambar berikut. Segitiga pertama mempunyai sisi siku-siku 3 cm dan 4 cm. Segitiga kedua berimpit dengan segitiga pertama pada sisi miringnya dan mempunyai sisi siku-siku yang lain 12 cm. Segitiga ketiga berimpit dengan segitiga kedua pada sisi miringnya dan mempunyai sisi siku-siku yang lain 84 cm. Panjang sisi miring segitiga ketiga adalah ....",
+    "tipe": "PG",
+    "varian": "B",
+    "gambar": "assets/img/pyt-09-b.svg"
+  },
+  {
+    "id": "PYT-10-A",
+    "indikator": 10,
+    "jawaban": "4 m",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Tinggi ujung tangga pada tembok = √(5² − 3²) = √(25 − 9) = √16 = 4 m.",
+    "pilihan": [
+      "4 m",
+      "6 m",
+      "8 m",
+      "3 m"
+    ],
+    "soal": "Sebuah tangga sepanjang 5 m disandarkan pada tembok. Kaki tangga berjarak 3 m dari tembok. Tinggi ujung tangga pada tembok adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PYT-10-B",
+    "indikator": 10,
+    "jawaban": "12 m",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Tinggi tiang = √(13² − 5²) = √(169 − 25) = √144 = 12 m.",
+    "pilihan": [
+      "12 m",
+      "8 m",
+      "18 m",
+      "10 m"
+    ],
+    "soal": "Seutas tali sepanjang 13 m diikatkan pada puncak sebuah tiang dan ujung yang lain diikat pada patok di tanah yang berjarak 5 m dari kaki tiang. Tinggi tiang tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PYT-11-A",
+    "indikator": 11,
+    "jawaban": "24 m",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Tinggi layang-layang = √(25² − 7²) = √(625 − 49) = √576 = 24 m.",
+    "pilihan": [
+      "24 m",
+      "18 m",
+      "32 m",
+      "26 m"
+    ],
+    "soal": "Rani menerbangkan layang-layang dengan benang sepanjang 25 m. Jarak Rani ke titik di tanah tepat di bawah layang-layang adalah 7 m. Tinggi layang-layang dari tanah adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PYT-11-B",
+    "indikator": 11,
+    "jawaban": "13 km",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Jarak kapal dari titik awal = √(12² + 5²) = √(144 + 25) = √169 = 13 km.",
+    "pilihan": [
+      "13 km",
+      "17 km",
+      "7 km",
+      "10 km"
+    ],
+    "soal": "Sebuah kapal berlayar 12 km ke arah timur, kemudian berbelok dan berlayar 5 km ke arah utara. Jarak kapal dari titik awal pelayaran adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PYT-12-A",
+    "indikator": 12,
+    "jawaban": "8 m",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Sisi siku-siku yang lain = √(10² − 6²) = √(100 − 36) = √64 = 8 m.",
+    "pilihan": [
+      "8 m",
+      "4 m",
+      "12 m",
+      "16 m"
+    ],
+    "soal": "Sebuah taman berbentuk segitiga siku-siku. Sisi miring taman tersebut 10 m dan salah satu sisi siku-sikunya 6 m. Panjang sisi siku-siku yang lain adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PYT-12-B",
+    "indikator": 12,
+    "jawaban": "20 inci",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Panjang layar = √(25² − 15²) = √(625 − 225) = √400 = 20 inci.",
+    "pilihan": [
+      "20 inci",
+      "10 inci",
+      "30 inci",
+      "40 inci"
+    ],
+    "soal": "Sebuah layar televisi berbentuk persegi panjang dengan diagonal 25 inci dan lebar 15 inci. Panjang layar televisi tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PYT-13-A",
+    "indikator": 13,
+    "jawaban": "Segitiga siku-siku",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Periksa 6² + 8² = 36 + 64 = 100 = 10². Karena kuadrat sisi terpanjang sama dengan jumlah kuadrat dua sisi lainnya, segitiga tersebut adalah segitiga siku-siku.",
+    "pilihan": [
+      "Segitiga siku-siku",
+      "Segitiga lancip",
+      "Segitiga tumpul",
+      "Segitiga sama sisi"
+    ],
+    "soal": "Perhatikan gambar segitiga berikut. Segitiga tersebut mempunyai panjang sisi 6 cm, 8 cm, dan 10 cm. Jenis segitiga yang terbentuk adalah ....",
+    "tipe": "PG",
+    "varian": "A",
+    "gambar": "assets/img/pyt-13-a.svg"
+  },
+  {
+    "id": "PYT-13-B",
+    "indikator": 13,
+    "jawaban": "Segitiga tumpul",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Periksa 5² + 7² = 25 + 49 = 74, sedangkan 9² = 81. Karena 74 < 81, kuadrat sisi terpanjang lebih besar daripada jumlah kuadrat dua sisi lainnya, sehingga segitiga tersebut adalah segitiga tumpul.",
+    "pilihan": [
+      "Segitiga tumpul",
+      "Segitiga siku-siku",
+      "Segitiga lancip",
+      "Segitiga sama kaki"
+    ],
+    "soal": "Perhatikan gambar segitiga berikut. Segitiga tersebut mempunyai panjang sisi 5 cm, 7 cm, dan 9 cm. Jenis segitiga yang terbentuk adalah ....",
+    "tipe": "PG",
+    "varian": "B",
+    "gambar": "assets/img/pyt-13-b.svg"
+  },
+  {
+    "id": "PYT-14-A",
+    "indikator": 14,
+    "jawaban": "(6, 8, 10)",
+    "level": "C2",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Periksa 6² + 8² = 36 + 64 = 100 = 10², sehingga (6, 8, 10) merupakan triple Pythagoras. Kelompok lain tidak memenuhi: 5² + 6² = 61 ≠ 49; 4² + 5² = 41 ≠ 36; 7² + 8² = 113 ≠ 81.",
+    "pilihan": [
+      "(6, 8, 10)",
+      "(5, 6, 7)",
+      "(4, 5, 6)",
+      "(7, 8, 9)"
+    ],
+    "soal": "Kelompok bilangan berikut yang merupakan triple Pythagoras adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PYT-14-B",
+    "indikator": 14,
+    "jawaban": "(9, 12, 15)",
+    "level": "C2",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Periksa 9² + 12² = 81 + 144 = 225 = 15², sehingga (9, 12, 15) merupakan triple Pythagoras. Kelompok lain tidak memenuhi: 8² + 10² = 164 ≠ 144; 3² + 5² = 34 ≠ 36; 10² + 12² = 244 ≠ 196.",
+    "pilihan": [
+      "(9, 12, 15)",
+      "(8, 10, 12)",
+      "(3, 5, 6)",
+      "(10, 12, 14)"
+    ],
+    "soal": "Kelompok bilangan berikut yang merupakan triple Pythagoras adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PYT-15-A",
+    "indikator": 15,
+    "jawaban": "60 cm²",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Luas segitiga siku-siku = ½ × alas × tinggi = ½ × 8 × 15 = 60 cm².",
+    "pilihan": [
+      "60 cm²",
+      "120 cm²",
+      "30 cm²",
+      "90 cm²"
+    ],
+    "soal": "Perhatikan gambar segitiga siku-siku berikut. Segitiga tersebut mempunyai alas 8 cm dan tinggi 15 cm. Luas segitiga tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A",
+    "gambar": "assets/img/pyt-15-a.svg"
+  },
+  {
+    "id": "PYT-15-B",
+    "indikator": 15,
+    "jawaban": "30 cm²",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Luas segitiga siku-siku = ½ × alas × tinggi = ½ × 12 × 5 = 30 cm².",
+    "pilihan": [
+      "30 cm²",
+      "60 cm²",
+      "17 cm²",
+      "45 cm²"
+    ],
+    "soal": "Perhatikan gambar segitiga siku-siku berikut. Segitiga tersebut mempunyai alas 12 cm dan tinggi 5 cm. Luas segitiga tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B",
+    "gambar": "assets/img/pyt-15-b.svg"
+  },
+  {
+    "id": "PYT-16-A",
+    "indikator": 16,
+    "jawaban": "5 cm",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Sisi siku-siku yang lain = √(13² − 12²) = √(169 − 144) = √25 = 5 cm.",
+    "pilihan": [
+      "5 cm",
+      "25 cm",
+      "1 cm",
+      "10 cm"
+    ],
+    "soal": "Perhatikan gambar berikut. Sebuah papan berbentuk segitiga siku-siku dipasang miring. Sisi miring papan tersebut 13 cm dan salah satu sisi siku-sikunya 12 cm. Panjang sisi siku-siku yang lain adalah ....",
+    "tipe": "PG",
+    "varian": "A",
+    "gambar": "assets/img/pyt-16-a.svg"
+  },
+  {
+    "id": "PYT-16-B",
+    "indikator": 16,
+    "jawaban": "8 cm",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Sisi siku-siku yang lain = √(17² − 15²) = √(289 − 225) = √64 = 8 cm.",
+    "pilihan": [
+      "8 cm",
+      "2 cm",
+      "32 cm",
+      "12 cm"
+    ],
+    "soal": "Perhatikan gambar berikut. Sebuah bingkai foto berbentuk segitiga siku-siku. Panjang sisi miring bingkai tersebut 17 cm dan salah satu sisi siku-sikunya 15 cm. Panjang sisi yang lain adalah ....",
+    "tipe": "PG",
+    "varian": "B",
+    "gambar": "assets/img/pyt-16-b.svg"
+  },
+  {
+    "id": "PLSV-17-A",
+    "indikator": 17,
+    "jawaban": "(1) dan (2)",
+    "level": "C2",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Persamaan (1) 2x + 3 = 11 mempunyai penyelesaian x = 4. Persamaan (2) x + 5 = 9 mempunyai penyelesaian x = 4. Persamaan (3) 3x − 1 = 14 mempunyai penyelesaian x = 5 dan persamaan (4) 5x = 30 mempunyai penyelesaian x = 6. Persamaan yang ekuivalen adalah yang penyelesaiannya sama, yaitu (1) dan (2).",
+    "pilihan": [
+      "(1) dan (2)",
+      "(1) dan (3)",
+      "(2) dan (4)",
+      "(3) dan (4)"
+    ],
+    "soal": "Perhatikan empat persamaan linear satu variabel berikut. (1) 2x + 3 = 11 (2) x + 5 = 9 (3) 3x − 1 = 14 (4) 5x = 30. Pasangan persamaan yang ekuivalen adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-17-B",
+    "indikator": 17,
+    "jawaban": "(1) dan (3)",
+    "level": "C2",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Persamaan (1) 3x + 2 = 11 mempunyai penyelesaian x = 3. Persamaan (2) x + 6 = 10 mempunyai penyelesaian x = 4. Persamaan (3) 2x − 1 = 5 mempunyai penyelesaian x = 3 dan persamaan (4) 4x = 24 mempunyai penyelesaian x = 6. Persamaan yang ekuivalen adalah yang penyelesaiannya sama, yaitu (1) dan (3).",
+    "pilihan": [
+      "(1) dan (2)",
+      "(1) dan (3)",
+      "(2) dan (4)",
+      "(3) dan (4)"
+    ],
+    "soal": "Perhatikan empat persamaan linear satu variabel berikut. (1) 3x + 2 = 11 (2) x + 6 = 10 (3) 2x − 1 = 5 (4) 4x = 24. Pasangan persamaan yang ekuivalen adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PLSV-18-A",
+    "indikator": 18,
+    "jawaban": "Rp12.000,00",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Misalkan harga 1 kg gula adalah x rupiah. Modelnya 3x = 36.000, sehingga x = 36.000 ÷ 3 = 12.000. Jadi harga 1 kg gula adalah Rp12.000,00.",
+    "pilihan": [
+      "Rp12.000,00",
+      "Rp9.000,00",
+      "Rp18.000,00",
+      "Rp10.000,00"
+    ],
+    "soal": "Ibu membeli 3 kg gula dan membayar Rp36.000,00. Jika harga 1 kg gula adalah x rupiah, harga 1 kg gula adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-18-B",
+    "indikator": 18,
+    "jawaban": "Rp15.000,00",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Misalkan harga 1 liter minyak goreng adalah x rupiah. Modelnya 4x = 60.000, sehingga x = 60.000 ÷ 4 = 15.000. Jadi harga 1 liter minyak goreng adalah Rp15.000,00.",
+    "pilihan": [
+      "Rp15.000,00",
+      "Rp12.000,00",
+      "Rp20.000,00",
+      "Rp16.000,00"
+    ],
+    "soal": "Pak Budi membeli 4 liter minyak goreng dan membayar Rp60.000,00. Jika harga 1 liter minyak goreng adalah x rupiah, harga 1 liter minyak goreng adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PLSV-19-A",
+    "indikator": 19,
+    "jawaban": "{x | x < 9}",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Keliling persegi panjang = 2 × ((x + 5) + 4) = 2x + 18. Syarat keliling kurang dari 36 cm: 2x + 18 < 36, sehingga 2x < 18 dan x < 9. Jadi himpunan penyelesaiannya {x | x < 9}.",
+    "pilihan": [
+      "{x | x < 9}",
+      "{x | x > 9}",
+      "{x | x ≤ 9}",
+      "{x | x < 18}"
+    ],
+    "soal": "Sebuah persegi panjang mempunyai panjang (x + 5) cm dan lebar 4 cm. Jika keliling persegi panjang tersebut kurang dari 36 cm, himpunan penyelesaian x adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-19-B",
+    "indikator": 19,
+    "jawaban": "{x | x > 4}",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Luas segitiga = ½ × (2x + 2) × 6 = 3(2x + 2) = 6x + 6. Syarat luas lebih dari 30 cm²: 6x + 6 > 30, sehingga 6x > 24 dan x > 4. Jadi himpunan penyelesaiannya {x | x > 4}.",
+    "pilihan": [
+      "{x | x > 4}",
+      "{x | x < 4}",
+      "{x | x ≥ 4}",
+      "{x | x > 8}"
+    ],
+    "soal": "Sebuah segitiga mempunyai alas (2x + 2) cm dan tinggi 6 cm. Jika luas segitiga tersebut lebih dari 30 cm², himpunan penyelesaian x adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "PLSV-20-A",
+    "indikator": 20,
+    "jawaban": "4",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "3x + 5 < 20, sehingga 3x < 15 dan x < 5. Nilai x yang memenuhi di antara pilihan adalah 4.",
+    "pilihan": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "soal": "Sebuah bilangan jika dikalikan 3 lalu ditambah 5 hasilnya kurang dari 20. Nilai x yang memenuhi pertidaksamaan 3x + 5 < 20 adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-20-B",
+    "indikator": 20,
+    "jawaban": "7",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "2x − 3 > 9, sehingga 2x > 12 dan x > 6. Nilai x yang memenuhi di antara pilihan adalah 7.",
+    "pilihan": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "soal": "Sebuah bilangan jika dikalikan 2 lalu dikurangi 3 hasilnya lebih dari 9. Nilai x yang memenuhi pertidaksamaan 2x − 3 > 9 adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-21-A",
+    "indikator": 21,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "8/√2 = (8 × √2)/(√2 × √2) = 8√2/2 = 4√2. Jadi pernyataan tersebut benar.",
+    "soal": "Bentuk sederhana dari 8/√2 adalah 4√2.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-21-B",
+    "indikator": 21,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "15/√5 = (15 × √5)/(√5 × √5) = 15√5/5 = 3√5, bukan 5√5. Jadi pernyataan tersebut salah.",
+    "soal": "Bentuk sederhana dari 15/√5 adalah 5√5.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-22-A",
+    "indikator": 22,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "0,00045 = 4,5 × 0,0001 = 4,5 × 10⁻⁴, bukan 4,5 × 10⁻⁵. Jadi pernyataan tersebut salah.",
+    "soal": "Notasi ilmiah dari 0,00045 adalah 4,5 × 10⁻⁵.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-22-B",
+    "indikator": 22,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "0,00072 = 7,2 × 0,0001 = 7,2 × 10⁻⁴. Jadi pernyataan tersebut benar.",
+    "soal": "Notasi ilmiah dari 0,00072 adalah 7,2 × 10⁻⁴.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "PYT-23-A",
+    "indikator": 23,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Periksa 9² + 12² = 81 + 144 = 225 = 15². Karena kuadrat sisi terpanjang sama dengan jumlah kuadrat dua sisi lainnya, segitiga tersebut siku-siku. Jadi pernyataan tersebut benar.",
+    "soal": "Segitiga dengan panjang sisi 9 cm, 12 cm, dan 15 cm adalah segitiga siku-siku.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "PYT-23-B",
+    "indikator": 23,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Periksa 4² + 5² = 16 + 25 = 41, sedangkan 6² = 36. Karena 41 ≠ 36, segitiga tersebut bukan segitiga siku-siku. Jadi pernyataan tersebut salah.",
+    "soal": "Segitiga dengan panjang sisi 4 cm, 5 cm, dan 6 cm adalah segitiga siku-siku.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "PLSV-24-A",
+    "indikator": 24,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Substitusi x = 6 ke persamaan: 3(6) + 4 = 18 + 4 = 22, bukan 19. Selesaian yang benar adalah x = 5. Jadi pernyataan tersebut salah.",
+    "soal": "Selesaian dari persamaan 3x + 4 = 19 adalah x = 6.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-24-B",
+    "indikator": 24,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Substitusi x = 8 ke persamaan: 2(8) − 6 = 16 − 6 = 10. Hasilnya sesuai, jadi pernyataan tersebut benar.",
+    "soal": "Selesaian dari persamaan 2x − 6 = 10 adalah x = 8.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "PLSV-25-A",
+    "indikator": 25,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "x + 3 > 8, sehingga x > 8 − 3 dan x > 5. Jadi pernyataan tersebut benar.",
+    "soal": "Selesaian dari pertidaksamaan x + 3 > 8 adalah x > 5.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-25-B",
+    "indikator": 25,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "2x < 14, sehingga x < 14 ÷ 2 dan x < 7, bukan x < 8. Jadi pernyataan tersebut salah.",
+    "soal": "Selesaian dari pertidaksamaan 2x < 14 adalah x < 8.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-26-A",
+    "indikator": 26,
+    "jawaban": "5",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "2ⁿ = 32. Karena 2⁵ = 32, maka n = 5.",
+    "pilihan": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "soal": "Diketahui 2ⁿ = 32 dengan n < 10. Nilai n adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-26-B",
+    "indikator": 26,
+    "jawaban": "4",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "3ⁿ = 81. Karena 3⁴ = 81, maka n = 4.",
+    "pilihan": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "soal": "Diketahui 3ⁿ = 81 dengan n < 10. Nilai n adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-27-A",
+    "indikator": 27,
+    "jawaban": "4",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "2ˣ × 2³ = 2ˣ⁺³ = 2⁷, sehingga x + 3 = 7 dan x = 4.",
+    "pilihan": [
+      "3",
+      "4",
+      "5",
+      "10"
+    ],
+    "soal": "Diketahui 2ˣ × 2³ = 2⁷ dengan x < 10. Nilai x adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-27-B",
+    "indikator": 27,
+    "jawaban": "6",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "5ˣ ÷ 5² = 5ˣ⁻² = 5⁴, sehingga x − 2 = 4 dan x = 6.",
+    "pilihan": [
+      "5",
+      "6",
+      "7",
+      "2"
+    ],
+    "soal": "Diketahui 5ˣ ÷ 5² = 5⁴ dengan x < 10. Nilai x adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "PYT-28-A",
+    "indikator": 28,
+    "jawaban": "13 cm",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Diagonal ruang balok = √(3² + 4² + 12²) = √(9 + 16 + 144) = √169 = 13 cm. (Diagonal alasnya √(3² + 4²) = 5 cm, lalu diagonal ruang = √(5² + 12²) = 13 cm.)",
+    "pilihan": [
+      "13 cm",
+      "12 cm",
+      "10 cm",
+      "19 cm"
+    ],
+    "soal": "Perhatikan gambar balok berikut. Balok tersebut mempunyai panjang 3 cm, lebar 4 cm, dan tinggi 12 cm. Panjang diagonal ruang balok tersebut adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "A",
+    "gambar": "assets/img/pyt-28-a.svg"
+  },
+  {
+    "id": "PYT-28-B",
+    "indikator": 28,
+    "jawaban": "26 cm",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Diagonal ruang balok = √(6² + 8² + 24²) = √(36 + 64 + 576) = √676 = 26 cm. (Diagonal alasnya √(6² + 8²) = 10 cm, lalu diagonal ruang = √(10² + 24²) = 26 cm.)",
+    "pilihan": [
+      "26 cm",
+      "24 cm",
+      "20 cm",
+      "38 cm"
+    ],
+    "soal": "Perhatikan gambar balok berikut. Balok tersebut mempunyai panjang 6 cm, lebar 8 cm, dan tinggi 24 cm. Panjang diagonal ruang balok tersebut adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "B",
+    "gambar": "assets/img/pyt-28-b.svg"
+  },
+  {
+    "id": "PLSV-29-A",
+    "indikator": 29,
+    "jawaban": "12 tahun",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Misalkan usia Budi x tahun, usia Ayah 3x tahun. Jumlah usia mereka: x + 3x = 48, sehingga 4x = 48 dan x = 12. Jadi usia Budi adalah 12 tahun.",
+    "pilihan": [
+      "12 tahun",
+      "16 tahun",
+      "36 tahun",
+      "24 tahun"
+    ],
+    "soal": "Usia Ayah 3 kali usia Budi. Jumlah usia mereka 48 tahun. Usia Budi adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-29-B",
+    "indikator": 29,
+    "jawaban": "9 tahun",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Misalkan usia Ani x tahun, usia Ibu 4x tahun. Jumlah usia mereka: x + 4x = 45, sehingga 5x = 45 dan x = 9. Jadi usia Ani adalah 9 tahun.",
+    "pilihan": [
+      "9 tahun",
+      "11 tahun",
+      "36 tahun",
+      "15 tahun"
+    ],
+    "soal": "Usia Ibu 4 kali usia Ani. Jumlah usia mereka 45 tahun. Usia Ani adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "PLSV-30-A",
+    "indikator": 30,
+    "jawaban": "4.000",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Harga buku (2x + 2.000) rupiah tidak lebih dari 10.000 rupiah, sehingga 2x + 2.000 ≤ 10.000. Diperoleh 2x ≤ 8.000 dan x ≤ 4.000. Jadi nilai x terbesar yang memenuhi adalah 4.000.",
+    "pilihan": [
+      "4.000",
+      "5.000",
+      "6.000",
+      "8.000"
+    ],
+    "soal": "Harga sebuah buku tidak lebih dari Rp10.000,00. Harga buku tersebut adalah (2x + 2.000) rupiah. Nilai x terbesar yang memenuhi adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-30-B",
+    "indikator": 30,
+    "jawaban": "30.000",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Harga kemeja (3x + 30.000) rupiah tidak kurang dari 120.000 rupiah, sehingga 3x + 30.000 ≥ 120.000. Diperoleh 3x ≥ 90.000 dan x ≥ 30.000. Jadi nilai x terkecil yang memenuhi adalah 30.000.",
+    "pilihan": [
+      "30.000",
+      "25.000",
+      "40.000",
+      "20.000"
+    ],
+    "soal": "Sebuah kemeja dijual dengan harga tidak kurang dari Rp120.000,00. Harga kemeja tersebut adalah (3x + 30.000) rupiah. Nilai x terkecil yang memenuhi adalah ....",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-31-A",
+    "indikator": 31,
+    "jawaban": "10",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "√36 + √16 = 6 + 4 = 10.",
+    "soal": "Hitunglah √36 + √16. Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-31-B",
+    "indikator": 31,
+    "jawaban": "4",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "√81 − √25 = 9 − 5 = 4.",
+    "soal": "Hitunglah √81 − √25. Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-32-A",
+    "indikator": 32,
+    "jawaban": "4",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "400.000.000 = 4 × 100.000.000 = 4 × 10⁸, sehingga a = 4.",
+    "soal": "Sebuah perusahaan memperoleh keuntungan Rp400.000.000,00. Bilangan 400.000.000 ditulis dalam notasi ilmiah a × 10⁸. Nilai a adalah .... Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-32-B",
+    "indikator": 32,
+    "jawaban": "7",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "700.000.000 = 7 × 100.000.000 = 7 × 10⁸, sehingga a = 7.",
+    "soal": "Sebuah kota memiliki penduduk sebanyak 700.000.000 jiwa. Bilangan 700.000.000 ditulis dalam notasi ilmiah a × 10⁸. Nilai a adalah .... Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "PYT-33-A",
+    "indikator": 33,
+    "jawaban": "10",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Jarak titik A(0, 0) ke B(6, 8) = √((6 − 0)² + (8 − 0)²) = √(36 + 64) = √100 = 10 cm. Karena semua sisi belah ketupat sama panjang, panjang sisinya 10 cm.",
+    "soal": "Titik A(0, 0) dan titik B(6, 8) adalah dua titik sudut yang berurutan pada sebuah belah ketupat. Panjang sisi belah ketupat tersebut adalah ... cm. Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A",
+    "gambar": "assets/img/pyt-33-a.svg"
+  },
+  {
+    "id": "PYT-33-B",
+    "indikator": 33,
+    "jawaban": "13",
+    "level": "C3",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Jarak titik A(2, 3) ke B(14, 8) = √((14 − 2)² + (8 − 3)²) = √(12² + 5²) = √(144 + 25) = √169 = 13 cm. Karena sisi yang berurutan pada jajargenjang tersebut sama dengan jarak kedua titik itu, panjang sisinya 13 cm.",
+    "soal": "Titik A(2, 3) dan titik B(14, 8) adalah dua titik sudut yang berurutan pada sebuah jajargenjang. Panjang sisi jajargenjang tersebut adalah ... cm. Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B",
+    "gambar": "assets/img/pyt-33-b.svg"
+  },
+  {
+    "id": "PLSV-34-A",
+    "indikator": 34,
+    "jawaban": "12000",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Misalkan harga 1 kg beras adalah x rupiah. Modelnya 3x = 36.000, sehingga x = 36.000 ÷ 3 = 12.000.",
+    "soal": "Harga 3 kg beras adalah Rp36.000,00. Harga 1 kg beras adalah Rp... . Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-34-B",
+    "indikator": 34,
+    "jawaban": "10000",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Misalkan harga 1 liter bensin adalah x rupiah. Modelnya 5x = 50.000, sehingga x = 50.000 ÷ 5 = 10.000.",
+    "soal": "Harga 5 liter bensin adalah Rp50.000,00. Harga 1 liter bensin adalah Rp... . Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "PLSV-35-A",
+    "indikator": 35,
+    "jawaban": "40000",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Rina membeli 4 buku tulis seharga 4 × 15.000 = 60.000 rupiah. Sisa uangnya = 100.000 − 60.000 = 40.000 rupiah.",
+    "soal": "Uang Rina Rp100.000,00. Ia membeli 4 buku tulis seharga Rp15.000,00 per buku. Sisa uang Rina adalah Rp... . Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-35-B",
+    "indikator": 35,
+    "jawaban": "26000",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Budi membeli 2 kg jeruk seharga 2 × 12.000 = 24.000 rupiah. Sisa uangnya = 50.000 − 24.000 = 26.000 rupiah.",
+    "soal": "Uang Budi Rp50.000,00. Ia membeli 2 kg jeruk seharga Rp12.000,00 per kg. Sisa uang Budi adalah Rp... . Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-36-A",
+    "indikator": 36,
+    "jawaban": "a = 4, b = 3, sehingga a + b = 7",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "2ᵃ = 16 = 2⁴, sehingga a = 4. 3ᵇ = 27 = 3³, sehingga b = 3. Jadi a + b = 4 + 3 = 7.",
+    "soal": "Diketahui 2ᵃ = 16 dan 3ᵇ = 27 dengan a ≠ b. Tentukan hasil dari a + b!",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-36-B",
+    "indikator": 36,
+    "jawaban": "a = 5, b = 2, sehingga a − b = 3",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "2ᵃ = 32 = 2⁵, sehingga a = 5. 5ᵇ = 25 = 5², sehingga b = 2. Jadi a − b = 5 − 2 = 3.",
+    "soal": "Diketahui 2ᵃ = 32 dan 5ᵇ = 25 dengan a ≠ b. Tentukan hasil dari a − b!",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "BERP-37-A",
+    "indikator": 37,
+    "jawaban": "8 bakteri",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "Bakteri membelah menjadi 2 setiap 20 menit. Dalam 1 jam terjadi 60 ÷ 20 = 3 kali pembelahan. Banyak bakteri setelah 1 jam adalah 2³ = 8 bakteri.",
+    "soal": "Sebuah bakteri membelah diri menjadi 2 setiap 20 menit. Jika mula-mula ada 1 bakteri, tentukan banyak bakteri setelah 1 jam!",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "BERP-37-B",
+    "indikator": 37,
+    "jawaban": "32 lapisan",
+    "level": "C3",
+    "materi": "Bilangan Berpangkat",
+    "pembahasan": "Setiap lipatan membuat jumlah lapisan menjadi 2 kali lipat. Setelah 5 kali lipatan, banyak lapisan adalah 2⁵ = 32 lapisan.",
+    "soal": "Selembar kertas dilipat sehingga setiap lipatan jumlah lapisannya menjadi 2 kali lipat. Tentukan banyak lapisan kertas setelah dilipat 5 kali!",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "PYT-38-A",
+    "indikator": 38,
+    "jawaban": "13 m",
+    "level": "C2",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Tangga, tembok, dan tanah membentuk segitiga siku-siku. Panjang tangga = √(12² + 5²) = √(144 + 25) = √169 = 13 m.",
+    "soal": "Perhatikan gambar berikut. Sebuah tangga disandarkan pada dinding. Ujung atas tangga berada 12 m di atas tanah dan kaki tangga berjarak 5 m dari dinding. Tentukan panjang tangga tersebut!",
+    "tipe": "Uraian",
+    "varian": "A",
+    "gambar": "assets/img/pyt-38-a.svg"
+  },
+  {
+    "id": "PYT-38-B",
+    "indikator": 38,
+    "jawaban": "15 m",
+    "level": "C2",
+    "materi": "Teorema Pythagoras",
+    "pembahasan": "Penyangga, dinding, dan tanah membentuk segitiga siku-siku. Panjang penyangga = √(9² + 12²) = √(81 + 144) = √225 = 15 m.",
+    "soal": "Perhatikan gambar berikut. Sebuah tiang penyangga miring dipasang dari tanah ke dinding. Jarak kaki penyangga ke dinding 9 m dan tinggi ujung penyangga pada dinding 12 m. Tentukan panjang penyangga tersebut!",
+    "tipe": "Uraian",
+    "varian": "B",
+    "gambar": "assets/img/pyt-38-b.svg"
+  },
+  {
+    "id": "PLSV-39-A",
+    "indikator": 39,
+    "jawaban": "11",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Misalkan bilangan terkecil adalah x, maka tiga bilangan berurutan itu adalah x, x + 1, dan x + 2. Jumlahnya x + (x + 1) + (x + 2) = 3x + 3 = 36, sehingga 3x = 33 dan x = 11. Jadi bilangan terkecilnya adalah 11.",
+    "soal": "Jumlah tiga bilangan berurutan adalah 36. Tentukan bilangan yang terkecil!",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-39-B",
+    "indikator": 39,
+    "jawaban": "18",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Misalkan bilangan genap terkecil adalah x, maka tiga bilangan genap berurutan itu adalah x, x + 2, dan x + 4. Jumlahnya x + (x + 2) + (x + 4) = 3x + 6 = 48, sehingga 3x = 42 dan x = 14. Bilangan terbesarnya adalah x + 4 = 18.",
+    "soal": "Jumlah tiga bilangan genap berurutan adalah 48. Tentukan bilangan yang terbesar!",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "PLSV-40-A",
+    "indikator": 40,
+    "jawaban": "8 cm",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Misalkan lebar persegi panjang adalah l cm, panjangnya (l + 4) cm. Keliling = 2 × (l + (l + 4)) = 4l + 8 = 40, sehingga 4l = 32 dan l = 8. Jadi lebar persegi panjang tersebut adalah 8 cm.",
+    "soal": "Keliling sebuah persegi panjang adalah 40 cm. Panjangnya 4 cm lebih dari lebarnya. Tentukan lebar persegi panjang tersebut!",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "PLSV-40-B",
+    "indikator": 40,
+    "jawaban": "12",
+    "level": "C3",
+    "materi": "PLSV dan PtLSV",
+    "pembahasan": "Misalkan bilangan yang lebih kecil adalah x, bilangan yang lain adalah x + 6. Jumlahnya x + (x + 6) = 2x + 6 = 30, sehingga 2x = 24 dan x = 12. Jadi bilangan yang lebih kecil adalah 12.",
+    "soal": "Jumlah dua bilangan adalah 30. Bilangan yang satu 6 lebih dari bilangan yang lain. Tentukan bilangan yang lebih kecil!",
+    "tipe": "Uraian",
+    "varian": "B"
+  }
+]
