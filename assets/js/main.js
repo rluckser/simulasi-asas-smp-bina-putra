@@ -3,7 +3,8 @@
    2 varian per indikator 1-40. Tiap sesi: 1 varian acak per indikator,
    urutan soal mengikuti kisi-kisi (PG, Benar-Salah, Menjodohkan,
    Isian Singkat, Uraian) dengan pengacakan hanya di dalam tiap jenis
-   soal, urutan pilihan PG/Menjodohkan diacak.
+   soal, urutan pilihan PG diacak. Menjodohkan: pilihan tiap soal adalah
+   kelima jawaban dari soal-soal Menjodohkan pada sesi itu.
    Skor otomatis: 30 soal. Kelas 7 masih Segera Hadir. */
 (function () {
   'use strict';
@@ -69,10 +70,17 @@
       var variants = byIndikator[key];
       var chosen = variants[Math.floor(Math.random() * variants.length)];
       var copy = Object.assign({}, chosen);
-      if (copy.tipe === 'PG' || copy.tipe === 'Menjodohkan') {
+      if (copy.tipe === 'PG') {
         copy._options = shuffle(copy.pilihan);
       }
       picked.push(copy);
+    });
+    /* Menjodohkan: pilihan tiap soal adalah kelima jawaban dari
+       soal-soal Menjodohkan pada sesi ini (bukan lagi 4 pilihan
+       masing-masing soal). */
+    var matchingPool = picked.filter(function (q) { return q.tipe === 'Menjodohkan'; }).map(function (q) { return q.jawaban; });
+    picked.forEach(function (q) {
+      if (q.tipe === 'Menjodohkan') q._options = shuffle(matchingPool);
     });
     /* Urutkan per jenis soal sesuai kisi-kisi; acak hanya di dalam
        tiap jenis soal (PG 1-20, Benar-Salah 21-25, Menjodohkan 26-30,
@@ -208,7 +216,7 @@
 
     if (q.tipe === 'PG' || q.tipe === 'Menjodohkan') {
       if (q.tipe === 'Menjodohkan') box.appendChild(el('p', 'Pilih pasangan yang tepat:', 'hint'));
-      var letters = ['A', 'B', 'C', 'D'];
+      var letters = ['A', 'B', 'C', 'D', 'E'];
       q._options.forEach(function (opt, i) {
         var label = el('label', null, 'option');
         var radio = document.createElement('input');
