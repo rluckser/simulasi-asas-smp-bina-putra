@@ -1,11 +1,11 @@
-/* Simulasi ASAS SMP Bina Putra — Matematika Kelas VIII & IX
+/* Simulasi ASAS SMP Bina Putra — Matematika Kelas VII, VIII & IX
    Statis, tanpa server. Tiap kelas punya bank soal sendiri: 80 soal,
    2 varian per indikator 1-40. Tiap sesi: 1 varian acak per indikator,
    urutan soal mengikuti kisi-kisi (PG, Benar-Salah, Menjodohkan,
    Isian Singkat, Uraian) dengan pengacakan hanya di dalam tiap jenis
    soal, urutan pilihan PG diacak. Menjodohkan: pilihan tiap soal adalah
    kelima jawaban dari soal-soal Menjodohkan pada sesi itu.
-   Skor otomatis: 30 soal. Kelas 7 masih Segera Hadir. */
+   Skor otomatis: 30 soal. */
 (function () {
   'use strict';
 
@@ -16,8 +16,13 @@
   var TYPE_ORDER = ['PG', 'Benar-Salah', 'Menjodohkan', 'Isian Singkat', 'Uraian'];
   var HISTORY_KEY = 'asas_bina_putra_history';
 
-  /* Bank soal per kelas (diisi saat halaman dimuat). Kelas 7 belum ada. */
+  /* Bank soal per kelas (diisi saat halaman dimuat). */
   var GRADES = {
+    '7': {
+      roman: 'VII', file: 'assets/data/questions-7.json',
+      materi: [['Bilangan Bulat', 12], ['Bilangan Rasional', 12], ['Aritmetika Sosial', 6], ['Rasio', 10]],
+      note: 'Kelas 7: Bilangan Bulat, Bilangan Rasional, Aritmetika Sosial, dan Rasio.'
+    },
     '8': {
       roman: 'VIII', file: 'assets/data/questions-8.json',
       materi: [['Bilangan Berpangkat', 14], ['Teorema Pythagoras', 14], ['PLSV dan PtLSV', 12]],
@@ -29,7 +34,7 @@
       note: 'Kelas 9: SPLDV, Bangun Ruang Sisi Datar, Lingkaran, dan Bangun Ruang Sisi Lengkung.'
     }
   };
-  var banks = {};            // bank soal per kelas: { '8': [...], '9': [...] }
+  var banks = {};            // bank soal per kelas: { '7': [...], '8': [...], '9': [...] }
   var selectedGrade = '9';   // kelas yang dipilih di halaman awal (default: 9)
 
   var bank = [];
@@ -378,6 +383,10 @@
   function init() {
     renderHistory();
     selectGrade(selectedGrade);
+    if (banks['7']) {
+      var btn7 = document.querySelector('.grade-btn[data-grade="7"]');
+      if (btn7) { btn7.disabled = false; btn7.textContent = 'Kelas 7'; }
+    }
     if (!banks['8']) {
       var btn8 = document.querySelector('.grade-btn[data-grade="8"]');
       if (btn8) { btn8.disabled = true; btn8.innerHTML = 'Kelas 8<span class="badge-soon">Segera Hadir</span>'; }
@@ -414,8 +423,9 @@
     $('btn-home').addEventListener('click', function () { renderHistory(); show('screen-start'); });
   }
 
-  /* Muat bank Kelas 9 (wajib), lalu bank Kelas 8 (opsional: bila gagal,
-     tombol Kelas 8 dinonaktifkan dan situs tetap berjalan untuk Kelas 9). */
+  /* Muat bank Kelas 9 (wajib), lalu bank Kelas 8 dan Kelas 7 (opsional:
+     bila gagal, tombol kelas itu tetap nonaktif dan situs tetap berjalan
+     untuk kelas lainnya). */
   fetch('assets/data/questions.json')
     .then(function (r) { if (!r.ok) throw new Error('Gagal memuat bank soal Kelas 9 (' + r.status + ')'); return r.json(); })
     .then(function (data) {
@@ -424,7 +434,13 @@
       return fetch('assets/data/questions-8.json')
         .then(function (r) { if (!r.ok) throw new Error('Gagal memuat bank soal Kelas 8 (' + r.status + ')'); return r.json(); })
         .then(function (data8) { banks['8'] = data8; })
-        .catch(function () { banks['8'] = null; });
+        .catch(function () { banks['8'] = null; })
+        .then(function () {
+          return fetch('assets/data/questions-7.json')
+            .then(function (r) { if (!r.ok) throw new Error('Gagal memuat bank soal Kelas 7 (' + r.status + ')'); return r.json(); })
+            .then(function (data7) { banks['7'] = data7; })
+            .catch(function () { banks['7'] = null; });
+        });
     })
     .then(function () {
       init();
