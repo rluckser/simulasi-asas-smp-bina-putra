@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Garis bilangan: panah dari 0 ke -4, lalu 3 satuan ke kanan</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<defs>
+<marker id="arwB" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+<polygon points="0,0 9,3 0,6" fill="#1d4ed8"/>
+</marker>
+<marker id="arwG" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+<polygon points="0,0 9,3 0,6" fill="#15803d"/>
+</marker>
+</defs>
+<g font-family="Arial, Helvetica, sans-serif">
+<line x1="20" y1="180" x2="392" y2="180" stroke="#1f2a37" stroke-width="2"/>
+<polygon points="392,180 380,174 380,186" fill="#1f2a37"/>
+<polygon points="20,180 32,174 32,186" fill="#1f2a37"/>
+<g stroke="#1f2a37" stroke-width="2">
+<line x1="20" y1="174" x2="20" y2="186"/>
+<line x1="50" y1="174" x2="50" y2="186"/>
+<line x1="80" y1="174" x2="80" y2="186"/>
+<line x1="110" y1="174" x2="110" y2="186"/>
+<line x1="140" y1="174" x2="140" y2="186"/>
+<line x1="170" y1="174" x2="170" y2="186"/>
+<line x1="200" y1="174" x2="200" y2="186"/>
+<line x1="230" y1="174" x2="230" y2="186"/>
+<line x1="260" y1="174" x2="260" y2="186"/>
+<line x1="290" y1="174" x2="290" y2="186"/>
+<line x1="320" y1="174" x2="320" y2="186"/>
+<line x1="350" y1="174" x2="350" y2="186"/>
+</g>
+<path d="M200,150 L84,150" fill="none" stroke="#1d4ed8" stroke-width="3" marker-end="url(#arwB)"/>
+<text x="142" y="138" font-size="15" fill="#1d4ed8" text-anchor="middle" font-weight="bold">4 satuan ke kiri</text>
+<path d="M80,118 L166,118" fill="none" stroke="#15803d" stroke-width="3" marker-end="url(#arwG)"/>
+<text x="123" y="106" font-size="15" fill="#15803d" text-anchor="middle" font-weight="bold">3 satuan ke kanan</text>
+<circle cx="200" cy="180" r="6" fill="#1f2a37"/>
+<circle cx="80" cy="180" r="6" fill="#1d4ed8"/>
+<circle cx="170" cy="180" r="7" fill="#dc2626"/>
+<text x="170" y="90" font-size="22" fill="#dc2626" text-anchor="middle" font-weight="bold">?</text>
+<g font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">
+<text x="200" y="212">0</text>
+<text x="80" y="212">-4</text>
+</g>
+</g>
+</svg>

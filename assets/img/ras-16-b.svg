@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Denah rumah skala 1 : 200, lebar kamar tidur pada denah 4 cm</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<line x1="90" y1="52" x2="200" y2="52" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="90" y1="46" x2="90" y2="58" stroke="#1d4ed8" stroke-width="2"/>
+<line x1="200" y1="46" x2="200" y2="58" stroke="#1d4ed8" stroke-width="2"/>
+<text x="145" y="40" font-size="17" fill="#1d4ed8" text-anchor="middle" font-weight="bold">4 cm</text>
+<g fill="#eff6ff" stroke="#1f2a37" stroke-width="2">
+<rect x="90" y="70" width="220" height="160"/>
+</g>
+<line x1="200" y1="70" x2="200" y2="230" stroke="#1f2a37" stroke-width="2"/>
+<line x1="200" y1="150" x2="310" y2="150" stroke="#1f2a37" stroke-width="2"/>
+<g font-size="16" fill="#1f2a37" text-anchor="middle" font-weight="bold">
+<text x="145" y="106">Kamar</text>
+<text x="145" y="127">Tidur</text>
+<text x="145" y="186">Dapur</text>
+<text x="255" y="155">Ruang</text>
+<text x="255" y="176">Tamu</text>
+</g>
+<text x="200" y="266" font-size="16" fill="#1f2a37" text-anchor="middle">Skala 1 : 200</text>
+</g>
+</svg>

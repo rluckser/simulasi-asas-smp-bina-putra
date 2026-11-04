@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+<title>Dua kota: jarak pada gambar 3 cm, jarak sebenarnya 12 km</title>
+<rect x="0" y="0" width="400" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<line x1="110" y1="150" x2="290" y2="150" stroke="#1d4ed8" stroke-width="2" stroke-dasharray="8 6"/>
+<g fill="#dbeafe" stroke="#1f2a37" stroke-width="2">
+<rect x="86" y="118" width="48" height="32"/>
+<rect x="266" y="118" width="48" height="32"/>
+</g>
+<g fill="#1f2a37">
+<polygon points="80,118 110,96 140,118"/>
+<polygon points="260,118 290,96 320,118"/>
+</g>
+<text x="200" y="132" font-size="18" fill="#1d4ed8" text-anchor="middle" font-weight="bold">3 cm</text>
+<text x="110" y="178" font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">Kota A</text>
+<text x="290" y="178" font-size="17" fill="#1f2a37" text-anchor="middle" font-weight="bold">Kota B</text>
+<text x="200" y="230" font-size="16" fill="#1f2a37" text-anchor="middle">Jarak sebenarnya: 12 km</text>
+<text x="200" y="258" font-size="15" fill="#1f2a37" text-anchor="middle">Skala pada gambar = ?</text>
+</g>
+</svg>
