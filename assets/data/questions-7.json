@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "BLT-01-A",
+    "indikator": 1,
+    "jawaban": "-1",
+    "level": "C2",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Titik-titik tersebut berjarak 3 satuan: -4, -1, 2, 5. Jadi titik yang kosong adalah -1.",
+    "pilihan": [
+      "-2",
+      "-1",
+      "1",
+      "0"
+    ],
+    "soal": "Perhatikan garis bilangan berikut. Titik-titik pada garis bilangan tersebut adalah -4, ..., 2, dan 5 dengan jarak yang sama. Bilangan yang tepat untuk mengisi titik yang kosong adalah ....",
+    "tipe": "PG",
+    "varian": "A",
+    "gambar": "assets/img/blt-01-a.svg"
+  },
+  {
+    "id": "BLT-01-B",
+    "indikator": 1,
+    "jawaban": "-3",
+    "level": "C2",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Titik-titik tersebut berjarak 3 satuan: -6, -3, 0, 3. Jadi titik yang kosong adalah -3.",
+    "pilihan": [
+      "-4",
+      "-3",
+      "-2",
+      "-1"
+    ],
+    "soal": "Perhatikan garis bilangan berikut. Titik-titik pada garis bilangan tersebut adalah -6, ..., 0, dan 3 dengan jarak yang sama. Bilangan yang tepat untuk mengisi titik yang kosong adalah ....",
+    "tipe": "PG",
+    "varian": "B",
+    "gambar": "assets/img/blt-01-b.svg"
+  },
+  {
+    "id": "BLT-02-A",
+    "indikator": 2,
+    "jawaban": "-7, -2, 3, 5",
+    "level": "C2",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Bilangan negatif lebih kecil dari bilangan positif. -7 < -2 < 3 < 5, jadi urutannya -7, -2, 3, 5.",
+    "pilihan": [
+      "-7, -2, 3, 5",
+      "-2, -7, 3, 5",
+      "5, 3, -2, -7",
+      "-7, 3, -2, 5"
+    ],
+    "soal": "Diketahui empat bilangan: -7, 3, -2, dan 5. Urutan bilangan tersebut dari yang terkecil ke yang terbesar adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BLT-02-B",
+    "indikator": 2,
+    "jawaban": "8, 0, -3, -6",
+    "level": "C2",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "8 > 0 > -3 > -6, jadi urutannya 8, 0, -3, -6.",
+    "pilihan": [
+      "8, 0, -3, -6",
+      "8, -3, 0, -6",
+      "-6, -3, 0, 8",
+      "0, 8, -3, -6"
+    ],
+    "soal": "Diketahui empat bilangan: 8, -3, 0, dan -6. Urutan bilangan tersebut dari yang terbesar ke yang terkecil adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BLT-03-A",
+    "indikator": 3,
+    "jawaban": "-4 + 3",
+    "level": "C2",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Bergerak ke kiri dari 0 sejauh 4 satuan berarti -4, lalu bergerak ke kanan 3 satuan berarti +3. Jadi operasinya -4 + 3.",
+    "pilihan": [
+      "-4 + 3",
+      "-4 - 3",
+      "4 + 3",
+      "4 - 3"
+    ],
+    "soal": "Pada garis bilangan, sebuah panah bergerak dari 0 ke -4, lalu bergerak 3 satuan ke kanan. Operasi hitung yang sesuai dengan gerakan panah tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A",
+    "gambar": "assets/img/blt-03-a.svg"
+  },
+  {
+    "id": "BLT-03-B",
+    "indikator": 3,
+    "jawaban": "3 - 5",
+    "level": "C2",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Bergerak ke kiri sejauh 5 satuan dari 3 berarti dikurangi 5. Jadi operasinya 3 - 5.",
+    "pilihan": [
+      "3 + 5",
+      "3 - 5",
+      "-3 + 5",
+      "-3 - 5"
+    ],
+    "soal": "Pada garis bilangan, sebuah panah bergerak dari 3 ke kiri sejauh 5 satuan. Operasi hitung yang sesuai dengan gerakan panah tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B",
+    "gambar": "assets/img/blt-03-b.svg"
+  },
+  {
+    "id": "BLT-04-A",
+    "indikator": 4,
+    "jawaban": "-1°C",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "5 - 8 + 2 = -1. Jadi suhu akhirnya -1°C.",
+    "pilihan": [
+      "-1°C",
+      "1°C",
+      "-3°C",
+      "3°C"
+    ],
+    "soal": "Suhu di sebuah kota mula-mula 5°C. Pada malam hari suhu turun 8°C, lalu keesokan paginya naik 2°C. Suhu akhir di kota tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "BLT-04-B",
+    "indikator": 4,
+    "jawaban": "1°C",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "-2 + 7 - 4 = 1. Jadi suhu akhirnya 1°C.",
+    "pilihan": [
+      "-1°C",
+      "1°C",
+      "3°C",
+      "-3°C"
+    ],
+    "soal": "Suhu di sebuah daerah mula-mula -2°C. Suhu naik 7°C pada siang hari, lalu turun 4°C pada malam hari. Suhu akhir di daerah tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-05-A",
+    "indikator": 5,
+    "jawaban": "0,75",
+    "level": "C2",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "0,75 dapat ditulis sebagai pecahan 75/100 = 3/4, sehingga merupakan bilangan rasional. √2, √3, dan π bukan bilangan rasional.",
+    "pilihan": [
+      "√2",
+      "0,75",
+      "π",
+      "√3"
+    ],
+    "soal": "Di antara bilangan berikut, yang merupakan bilangan rasional adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-05-B",
+    "indikator": 5,
+    "jawaban": "2/3",
+    "level": "C2",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "2/3 sudah berbentuk pecahan a/b dengan b ≠ 0, sehingga merupakan bilangan rasional. √7, √10, dan π bukan bilangan rasional.",
+    "pilihan": [
+      "√7",
+      "2/3",
+      "π",
+      "√10"
+    ],
+    "soal": "Di antara bilangan berikut, yang merupakan bilangan rasional adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-06-A",
+    "indikator": 6,
+    "jawaban": "6/10",
+    "level": "C2",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "3/5 = (3 × 2)/(5 × 2) = 6/10.",
+    "pilihan": [
+      "6/10",
+      "5/3",
+      "3/10",
+      "9/10"
+    ],
+    "soal": "Bilangan yang senilai dengan 3/5 adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-06-B",
+    "indikator": 6,
+    "jawaban": "14/20",
+    "level": "C2",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "7/10 = (7 × 2)/(10 × 2) = 14/20.",
+    "pilihan": [
+      "14/20",
+      "10/7",
+      "7/20",
+      "21/20"
+    ],
+    "soal": "Bilangan yang senilai dengan 7/10 adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-07-A",
+    "indikator": 7,
+    "jawaban": "Lauk",
+    "level": "C4",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "1/4 = 0,25; 25% = 0,25; dan 0,3 = 0,30. Nilai yang paling besar adalah 0,3, yaitu porsi lauk.",
+    "pilihan": [
+      "Nasi",
+      "Lauk",
+      "Sayur",
+      "Nasi dan sayur sama"
+    ],
+    "soal": "Untuk gizi seimbang, Andi makan 1/4 piring nasi, 0,3 piring lauk, dan 25% piring sayur. Porsi makanan Andi yang paling besar adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-07-B",
+    "indikator": 7,
+    "jawaban": "Roti",
+    "level": "C4",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "2/5 = 0,4; 30% = 0,3; dan 0,35 = 0,35. Nilai yang paling besar adalah 0,4, yaitu porsi roti.",
+    "pilihan": [
+      "Roti",
+      "Keju",
+      "Selai",
+      "Keju dan selai sama"
+    ],
+    "soal": "Untuk gizi seimbang, Sari makan 2/5 piring roti, 0,35 piring keju, dan 30% piring selai. Porsi makanan Sari yang paling besar adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-08-A",
+    "indikator": 8,
+    "jawaban": "Rp5.250,00",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "Selisih = 12.500 - 7.250 = 5.250. Jadi selisihnya Rp5.250,00.",
+    "pilihan": [
+      "Rp5.250,00",
+      "Rp4.750,00",
+      "Rp19.750,00",
+      "Rp5.750,00"
+    ],
+    "soal": "Perhatikan tabel pengeluaran berikut. Senin: Rp12.500,00; Selasa: Rp7.250,00. Selisih pengeluaran hari Senin dan hari Selasa adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-08-B",
+    "indikator": 8,
+    "jawaban": "Rp16.250,00",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "Total = 9.750 + 6.500 = 16.250. Jadi totalnya Rp16.250,00.",
+    "pilihan": [
+      "Rp16.250,00",
+      "Rp15.750,00",
+      "Rp3.250,00",
+      "Rp16.750,00"
+    ],
+    "soal": "Perhatikan tabel pengeluaran berikut. Rabu: Rp9.750,00; Kamis: Rp6.500,00. Total pengeluaran hari Rabu dan hari Kamis adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-09-A",
+    "indikator": 9,
+    "jawaban": "0,75 kg",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "1/2 = 0,5. Total gula = 0,5 + 0,25 = 0,75 kg.",
+    "pilihan": [
+      "0,75 kg",
+      "0,5 kg",
+      "0,25 kg",
+      "1 kg"
+    ],
+    "soal": "Ibu membeli 1/2 kg gula, lalu membeli lagi 0,25 kg gula. Total gula yang dibeli Ibu adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-09-B",
+    "indikator": 9,
+    "jawaban": "0,25 liter",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "3/4 = 0,75. Sisa bensin = 0,75 - 0,5 = 0,25 liter.",
+    "pilihan": [
+      "0,25 liter",
+      "0,5 liter",
+      "0,75 liter",
+      "1,25 liter"
+    ],
+    "soal": "Ayah mempunyai 3/4 liter bensin, lalu memakai 0,5 liter bensin untuk bepergian. Sisa bensin Ayah adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-10-A",
+    "indikator": 10,
+    "jawaban": "0,5",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "1/2 = 0,5 dan 25% = 0,25. Hasilnya 0,5 + 0,25 - 0,25 = 0,5.",
+    "pilihan": [
+      "0,5",
+      "0,75",
+      "0,25",
+      "1"
+    ],
+    "soal": "Hasil dari 1/2 + 0,25 - 25% adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-10-B",
+    "indikator": 10,
+    "jawaban": "0,5",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "3/4 = 0,75 dan 25% = 0,25. Hasilnya 0,75 - 0,5 + 0,25 = 0,5.",
+    "pilihan": [
+      "0,5",
+      "0,25",
+      "1",
+      "0,75"
+    ],
+    "soal": "Hasil dari 3/4 - 0,5 + 25% adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-11-A",
+    "indikator": 11,
+    "jawaban": "1",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "2/3 × 3/4 = 6/12 = 1/2 = 0,5. Hasilnya 0,5 + 0,5 = 1.",
+    "pilihan": [
+      "1",
+      "0,5",
+      "1,5",
+      "2"
+    ],
+    "soal": "Hasil dari (2/3 × 3/4) + 0,5 adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-11-B",
+    "indikator": 11,
+    "jawaban": "1,75",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "4/5 ÷ 2/5 = 4/5 × 5/2 = 2. Hasilnya 2 - 0,25 = 1,75.",
+    "pilihan": [
+      "1,75",
+      "1,5",
+      "2",
+      "0,75"
+    ],
+    "soal": "Hasil dari (4/5 ÷ 2/5) - 0,25 adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-12-A",
+    "indikator": 12,
+    "jawaban": "1,5",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "Perkalian dikerjakan dulu: 1/2 × 2 = 1. Hasilnya 2,5 - 1 = 1,5.",
+    "pilihan": [
+      "1,5",
+      "2",
+      "4",
+      "0,5"
+    ],
+    "soal": "Hasil dari 2,5 - 1/2 × 2 adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-12-B",
+    "indikator": 12,
+    "jawaban": "1,75",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "Pembagian dikerjakan dulu: 0,75 ÷ 0,5 = 1,5. Hasilnya 0,25 + 1,5 = 1,75.",
+    "pilihan": [
+      "1,75",
+      "1,5",
+      "2",
+      "1"
+    ],
+    "soal": "Hasil dari 1/4 + 0,75 ÷ 0,5 adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "ARS-13-A",
+    "indikator": 13,
+    "jawaban": "Untung Rp30.000,00",
+    "level": "C3",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Harga jual lebih besar dari harga beli: 150.000 - 120.000 = 30.000. Jadi pedagang itu untung Rp30.000,00.",
+    "pilihan": [
+      "Untung Rp30.000,00",
+      "Rugi Rp30.000,00",
+      "Untung Rp20.000,00",
+      "Rugi Rp20.000,00"
+    ],
+    "soal": "Seorang pedagang membeli sebuah tas seharga Rp120.000,00 dan menjualnya seharga Rp150.000,00. Pedagang itu mengalami ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "ARS-13-B",
+    "indikator": 13,
+    "jawaban": "Rugi Rp15.000,00",
+    "level": "C3",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Harga jual lebih kecil dari harga beli: 80.000 - 65.000 = 15.000. Jadi pedagang itu rugi Rp15.000,00.",
+    "pilihan": [
+      "Untung Rp15.000,00",
+      "Rugi Rp15.000,00",
+      "Untung Rp10.000,00",
+      "Rugi Rp10.000,00"
+    ],
+    "soal": "Seorang pedagang membeli sebuah jam seharga Rp80.000,00 dan menjualnya seharga Rp65.000,00. Pedagang itu mengalami ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "ARS-14-A",
+    "indikator": 14,
+    "jawaban": "8 kemasan",
+    "level": "C3",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Netto = bruto - tara = 50 - 2 = 48 kg. Banyak kemasan = 48 ÷ 6 = 8 kemasan.",
+    "pilihan": [
+      "8 kemasan",
+      "6 kemasan",
+      "10 kemasan",
+      "12 kemasan"
+    ],
+    "soal": "Sebuah karung beras mempunyai bruto 50 kg dan tara 2 kg. Jika tiap kemasan berisi 6 kg beras, banyak kemasan penuh yang dapat dibuat adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "ARS-14-B",
+    "indikator": 14,
+    "jawaban": "11 kemasan",
+    "level": "C3",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Netto = bruto - tara = 60 - 5 = 55 kg. Banyak kemasan = 55 ÷ 5 = 11 kemasan.",
+    "pilihan": [
+      "11 kemasan",
+      "12 kemasan",
+      "10 kemasan",
+      "9 kemasan"
+    ],
+    "soal": "Sebuah karung gula mempunyai bruto 60 kg dan tara 5 kg. Jika tiap kemasan berisi 5 kg gula, banyak kemasan penuh yang dapat dibuat adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RAS-15-A",
+    "indikator": 15,
+    "jawaban": "1 : 500.000",
+    "level": "C2",
+    "materi": "Rasio",
+    "pembahasan": "20 km = 2.000.000 cm. Skala = 4 : 2.000.000 = 1 : 500.000.",
+    "pilihan": [
+      "1 : 500.000",
+      "1 : 50.000",
+      "1 : 5.000.000",
+      "1 : 200.000"
+    ],
+    "soal": "Jarak dua kota pada gambar adalah 4 cm. Jarak sebenarnya kedua kota tersebut adalah 20 km. Skala pada gambar tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A",
+    "gambar": "assets/img/ras-15-a.svg"
+  },
+  {
+    "id": "RAS-15-B",
+    "indikator": 15,
+    "jawaban": "1 : 400.000",
+    "level": "C2",
+    "materi": "Rasio",
+    "pembahasan": "12 km = 1.200.000 cm. Skala = 3 : 1.200.000 = 1 : 400.000.",
+    "pilihan": [
+      "1 : 400.000",
+      "1 : 40.000",
+      "1 : 4.000.000",
+      "1 : 300.000"
+    ],
+    "soal": "Jarak dua kota pada gambar adalah 3 cm. Jarak sebenarnya kedua kota tersebut adalah 12 km. Skala pada gambar tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B",
+    "gambar": "assets/img/ras-15-b.svg"
+  },
+  {
+    "id": "RAS-16-A",
+    "indikator": 16,
+    "jawaban": "5 m",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Panjang sebenarnya = 5 × 100 = 500 cm = 5 m.",
+    "pilihan": [
+      "5 m",
+      "50 m",
+      "0,5 m",
+      "500 m"
+    ],
+    "soal": "Denah sebuah rumah digambar dengan skala 1 : 100. Panjang ruang tamu pada denah adalah 5 cm. Panjang sebenarnya ruang tamu tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "A",
+    "gambar": "assets/img/ras-16-a.svg"
+  },
+  {
+    "id": "RAS-16-B",
+    "indikator": 16,
+    "jawaban": "8 m",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Lebar sebenarnya = 4 × 200 = 800 cm = 8 m.",
+    "pilihan": [
+      "8 m",
+      "80 m",
+      "0,8 m",
+      "800 m"
+    ],
+    "soal": "Denah sebuah rumah digambar dengan skala 1 : 200. Lebar kamar tidur pada denah adalah 4 cm. Lebar sebenarnya kamar tidur tersebut adalah ....",
+    "tipe": "PG",
+    "varian": "B",
+    "gambar": "assets/img/ras-16-b.svg"
+  },
+  {
+    "id": "RAS-17-A",
+    "indikator": 17,
+    "jawaban": "15 tahun",
+    "level": "C2",
+    "materi": "Rasio",
+    "pembahasan": "Umur Andi = 3/(3 + 4) × 35 = 3/7 × 35 = 15 tahun.",
+    "pilihan": [
+      "15 tahun",
+      "20 tahun",
+      "12 tahun",
+      "18 tahun"
+    ],
+    "soal": "Perbandingan umur Andi dan Budi adalah 3 : 4. Jumlah umur mereka adalah 35 tahun. Umur Andi adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RAS-17-B",
+    "indikator": 17,
+    "jawaban": "30 kelereng",
+    "level": "C2",
+    "materi": "Rasio",
+    "pembahasan": "Kelereng Beni = 5/(2 + 5) × 42 = 5/7 × 42 = 30 kelereng.",
+    "pilihan": [
+      "30 kelereng",
+      "12 kelereng",
+      "24 kelereng",
+      "18 kelereng"
+    ],
+    "soal": "Perbandingan banyak kelereng Ali dan Beni adalah 2 : 5. Jumlah kelereng mereka adalah 42 butir. Banyak kelereng Beni adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RAS-18-A",
+    "indikator": 18,
+    "jawaban": "2 : 3",
+    "level": "C2",
+    "materi": "Rasio",
+    "pembahasan": "12 : 18 = (12 ÷ 6) : (18 ÷ 6) = 2 : 3.",
+    "pilihan": [
+      "2 : 3",
+      "3 : 2",
+      "4 : 3",
+      "3 : 4"
+    ],
+    "soal": "Dalam sebuah kelas terdapat 12 siswa laki-laki dan 18 siswa perempuan. Perbandingan banyak siswa laki-laki dan siswa perempuan adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RAS-18-B",
+    "indikator": 18,
+    "jawaban": "4 : 1",
+    "level": "C2",
+    "materi": "Rasio",
+    "pembahasan": "200 : 50 = (200 ÷ 50) : (50 ÷ 50) = 4 : 1.",
+    "pilihan": [
+      "4 : 1",
+      "1 : 4",
+      "2 : 1",
+      "1 : 2"
+    ],
+    "soal": "Sebuah resep kue memakai 200 gram tepung dan 50 gram gula. Perbandingan banyak tepung dan gula adalah ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RAS-19-A",
+    "indikator": 19,
+    "jawaban": "300 km",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Kecepatan mobil = 120 ÷ 2 = 60 km/jam. Jarak dalam 5 jam = 60 × 5 = 300 km.",
+    "pilihan": [
+      "300 km",
+      "240 km",
+      "360 km",
+      "150 km"
+    ],
+    "soal": "Sebuah mobil menempuh jarak 120 km dalam waktu 2 jam. Dengan kecepatan yang sama, jarak yang ditempuh mobil tersebut dalam waktu 5 jam adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RAS-19-B",
+    "indikator": 19,
+    "jawaban": "12 hari",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Perbandingan berbalik nilai: 6 × 8 = 48. Waktu yang dibutuhkan 4 pekerja = 48 ÷ 4 = 12 hari.",
+    "pilihan": [
+      "12 hari",
+      "10 hari",
+      "16 hari",
+      "9 hari"
+    ],
+    "soal": "Sebanyak 6 pekerja dapat menyelesaikan sebuah pekerjaan dalam waktu 8 hari. Jika banyak pekerja menjadi 4 orang, pekerjaan tersebut selesai dalam waktu ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "RAS-20-A",
+    "indikator": 20,
+    "jawaban": "Rp75.000,00",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Harga 1 kg apel = 45.000 ÷ 3 = Rp15.000,00. Harga 5 kg = 5 × 15.000 = Rp75.000,00.",
+    "pilihan": [
+      "Rp75.000,00",
+      "Rp60.000,00",
+      "Rp90.000,00",
+      "Rp50.000,00"
+    ],
+    "soal": "Harga 3 kg apel adalah Rp45.000,00. Harga 5 kg apel adalah ....",
+    "tipe": "PG",
+    "varian": "A"
+  },
+  {
+    "id": "RAS-20-B",
+    "indikator": 20,
+    "jawaban": "15 hari",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Perbandingan berbalik nilai: 10 × 12 = 120. Waktu yang dibutuhkan = 120 ÷ 8 = 15 hari.",
+    "pilihan": [
+      "15 hari",
+      "10 hari",
+      "12 hari",
+      "20 hari"
+    ],
+    "soal": "Persediaan makanan untuk 10 ekor ayam dapat habis dalam waktu 12 hari. Jika banyak ayam menjadi 8 ekor, persediaan makanan tersebut habis dalam waktu ....",
+    "tipe": "PG",
+    "varian": "B"
+  },
+  {
+    "id": "BLT-21-A",
+    "indikator": 21,
+    "jawaban": "Benar",
+    "level": "C1",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Ruas kiri: 3 × (-4 + 5) = 3 × 1 = 3. Ruas kanan: 3 × (-4) + 3 × 5 = -12 + 15 = 3. Kedua ruas sama, jadi pernyataan tersebut benar.",
+    "soal": "Pernyataan: 3 × (-4 + 5) = 3 × (-4) + 3 × 5.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "BLT-21-B",
+    "indikator": 21,
+    "jawaban": "Salah",
+    "level": "C1",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Ruas kiri: 2 × (3 - 7) = 2 × (-4) = -8. Ruas kanan: 2 × 3 + 2 × 7 = 6 + 14 = 20. Kedua ruas tidak sama, jadi pernyataan tersebut salah. Seharusnya 2 × (3 - 7) = 2 × 3 - 2 × 7.",
+    "soal": "Pernyataan: 2 × (3 - 7) = 2 × 3 + 2 × 7.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "BLT-22-A",
+    "indikator": 22,
+    "jawaban": "Salah",
+    "level": "C1",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Faktor dari 12 adalah 1, 2, 3, 4, 6, dan 12. Daftar pada pernyataan tidak lengkap karena 12 belum disebutkan, jadi pernyataan tersebut salah.",
+    "soal": "Pernyataan: Faktor dari 12 adalah 1, 2, 3, 4, dan 6.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "BLT-22-B",
+    "indikator": 22,
+    "jawaban": "Benar",
+    "level": "C1",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "18 habis dibagi 1, 2, 3, 6, 9, dan 18, dan tidak ada faktor lain. Daftar tersebut lengkap, jadi pernyataan tersebut benar.",
+    "soal": "Pernyataan: Faktor dari 18 adalah 1, 2, 3, 6, 9, dan 18.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-23-A",
+    "indikator": 23,
+    "jawaban": "Benar",
+    "level": "C2",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "5/8 = 0,625 dan 0,625 lebih besar dari 0,6, jadi pernyataan tersebut benar.",
+    "soal": "Pernyataan: 5/8 lebih besar dari 0,6.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-23-B",
+    "indikator": 23,
+    "jawaban": "Salah",
+    "level": "C2",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "1/2 = 0,5 dan 0,45 lebih kecil dari 0,5, jadi pernyataan tersebut salah.",
+    "soal": "Pernyataan: 0,45 lebih besar dari 1/2.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "ARS-24-A",
+    "indikator": 24,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Bunga 1 tahun = 10% × 600.000 = Rp60.000,00. Karena bunganya Rp60.000,00, lama menabung Budi adalah 1 tahun, bukan 2 tahun, jadi pernyataan tersebut salah.",
+    "soal": "Pernyataan: Budi menabung Rp600.000,00 dan memperoleh bunga Rp60.000,00 dengan bunga 10% per tahun, sehingga lama menabung Budi adalah 2 tahun.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "ARS-24-B",
+    "indikator": 24,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Bunga 1 tahun = 10% × 800.000 = Rp80.000,00. Karena bunganya Rp80.000,00, lama menabung Rina adalah 1 tahun, jadi pernyataan tersebut benar.",
+    "soal": "Pernyataan: Rina menabung Rp800.000,00 dan memperoleh bunga Rp80.000,00 dengan bunga 10% per tahun, sehingga lama menabung Rina adalah 1 tahun.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "RAS-25-A",
+    "indikator": 25,
+    "jawaban": "Benar",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Perbandingan berbalik nilai: 4 × 6 = 24 dan 8 × 3 = 24. Hasil kali keduanya sama, jadi pernyataan tersebut benar.",
+    "soal": "Pernyataan: Sebanyak 4 pekerja dapat menyelesaikan sebuah pekerjaan dalam waktu 6 hari. Jika banyak pekerja menjadi 8 orang, pekerjaan tersebut selesai dalam waktu 3 hari.",
+    "tipe": "Benar-Salah",
+    "varian": "A"
+  },
+  {
+    "id": "RAS-25-B",
+    "indikator": 25,
+    "jawaban": "Salah",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Perbandingan berbalik nilai: 5 × 10 = 50, sedangkan 10 × 2 = 20. Hasil kali keduanya tidak sama, jadi pernyataan tersebut salah. Seharusnya pekerjaan selesai dalam 5 hari.",
+    "soal": "Pernyataan: Sebanyak 5 pekerja dapat menyelesaikan sebuah pekerjaan dalam waktu 10 hari. Jika banyak pekerja menjadi 10 orang, pekerjaan tersebut selesai dalam waktu 2 hari.",
+    "tipe": "Benar-Salah",
+    "varian": "B"
+  },
+  {
+    "id": "BLT-26-A",
+    "indikator": 26,
+    "jawaban": "-5",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "-9 - (-4) = -9 + 4 = -5.",
+    "pilihan": [
+      "-5",
+      "-13",
+      "5",
+      "13"
+    ],
+    "soal": "Diketahui -9 - (-4). Pasangkan operasi hitung tersebut dengan hasilnya yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "BLT-26-B",
+    "indikator": 26,
+    "jawaban": "5",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "-6 - (-11) = -6 + 11 = 5.",
+    "pilihan": [
+      "5",
+      "-5",
+      "-17",
+      "17"
+    ],
+    "soal": "Diketahui -6 - (-11). Pasangkan operasi hitung tersebut dengan hasilnya yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "BLT-27-A",
+    "indikator": 27,
+    "jawaban": "-2",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Perkalian dikerjakan dulu: 5 × 2 = 10, lalu -12 + 10 = -2.",
+    "pilihan": [
+      "-2",
+      "-14",
+      "2",
+      "-22"
+    ],
+    "soal": "Diketahui -12 + 5 × 2. Pasangkan operasi hitung tersebut dengan hasilnya yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "BLT-27-B",
+    "indikator": 27,
+    "jawaban": "3",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Perkalian dikerjakan dulu: 4 × 3 = 12, lalu 15 - 12 = 3.",
+    "pilihan": [
+      "3",
+      "33",
+      "-3",
+      "27"
+    ],
+    "soal": "Diketahui 15 - 4 × 3. Pasangkan operasi hitung tersebut dengan hasilnya yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-28-A",
+    "indikator": 28,
+    "jawaban": "5/6",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "1/2 + 1/3 = 3/6 + 2/6 = 5/6.",
+    "pilihan": [
+      "5/6",
+      "2/5",
+      "1/6",
+      "1/3"
+    ],
+    "soal": "Diketahui 1/2 + 1/3. Pasangkan operasi hitung tersebut dengan hasilnya yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-28-B",
+    "indikator": 28,
+    "jawaban": "1/4",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "3/4 - 1/2 = 3/4 - 2/4 = 1/4.",
+    "pilihan": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1/8"
+    ],
+    "soal": "Diketahui 3/4 - 1/2. Pasangkan operasi hitung tersebut dengan hasilnya yang tepat.",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "ARS-29-A",
+    "indikator": 29,
+    "jawaban": "Rp10.000,00",
+    "level": "C3",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Bunga 1 bulan = 2% × 500.000 = Rp10.000,00.",
+    "pilihan": [
+      "Rp10.000,00",
+      "Rp5.000,00",
+      "Rp20.000,00",
+      "Rp15.000,00"
+    ],
+    "soal": "Uang sebesar Rp500.000,00 disimpan dengan bunga 2% per bulan. Pasangkan soal tersebut dengan besar bunga yang diperoleh setelah 1 bulan.",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "ARS-29-B",
+    "indikator": 29,
+    "jawaban": "Rp24.000,00",
+    "level": "C3",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Bunga 1 bulan = 3% × 800.000 = Rp24.000,00.",
+    "pilihan": [
+      "Rp24.000,00",
+      "Rp16.000,00",
+      "Rp32.000,00",
+      "Rp8.000,00"
+    ],
+    "soal": "Uang sebesar Rp800.000,00 disimpan dengan bunga 3% per bulan. Pasangkan soal tersebut dengan besar bunga yang diperoleh setelah 1 bulan.",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "RAS-30-A",
+    "indikator": 30,
+    "jawaban": "3 cm",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "15 km = 1.500.000 cm. Jarak pada peta = 1.500.000 ÷ 500.000 = 3 cm.",
+    "pilihan": [
+      "3 cm",
+      "5 cm",
+      "7 cm",
+      "30 cm"
+    ],
+    "soal": "Jarak sebenarnya antara dua kota adalah 15 km. Skala peta yang digunakan adalah 1 : 500.000. Pasangkan soal tersebut dengan jarak kedua kota pada peta.",
+    "tipe": "Menjodohkan",
+    "varian": "A"
+  },
+  {
+    "id": "RAS-30-B",
+    "indikator": 30,
+    "jawaban": "5 cm",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "20 km = 2.000.000 cm. Jarak pada peta = 2.000.000 ÷ 400.000 = 5 cm.",
+    "pilihan": [
+      "5 cm",
+      "4 cm",
+      "8 cm",
+      "2 cm"
+    ],
+    "soal": "Jarak sebenarnya antara dua kota adalah 20 km. Skala peta yang digunakan adalah 1 : 400.000. Pasangkan soal tersebut dengan jarak kedua kota pada peta.",
+    "tipe": "Menjodohkan",
+    "varian": "B"
+  },
+  {
+    "id": "BLT-31-A",
+    "indikator": 31,
+    "jawaban": "7",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Penurunan suhu selama 6 jam adalah 6 × 3°C = 18°C. Suhu akhir: 25 - 18 = 7.",
+    "soal": "Suhu di sebuah kota mula-mula 25°C. Setiap jam suhu turun 3°C. Setelah 6 jam, suhu di kota tersebut menjadi .... °C. Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "BLT-31-B",
+    "indikator": 31,
+    "jawaban": "10",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Penurunan suhu selama 5 jam adalah 5 × 4°C = 20°C. Suhu akhir: 30 - 20 = 10.",
+    "soal": "Suhu di sebuah daerah mula-mula 30°C. Setiap jam suhu turun 4°C. Setelah 5 jam, suhu di daerah tersebut menjadi .... °C. Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "BLT-32-A",
+    "indikator": 32,
+    "jawaban": "6",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Banyak paket terbanyak adalah FPB dari 12, 18, dan 24. FPB 12 = 2² × 3, FPB 18 = 2 × 3², FPB 24 = 2³ × 3. FPB-nya 2 × 3 = 6.",
+    "soal": "Ibu mempunyai 12 kg beras, 18 kg gula, dan 24 kg minyak goreng. Bahan-bahan tersebut akan dibagikan kepada warga dalam paket yang sama banyak dan tidak ada sisa. Banyak paket terbanyak yang dapat dibuat adalah .... paket. Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "BLT-32-B",
+    "indikator": 32,
+    "jawaban": "10",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Banyak paket terbanyak adalah FPB dari 20, 30, dan 40. FPB 20 = 2² × 5, FPB 30 = 2 × 3 × 5, FPB 40 = 2³ × 5. FPB-nya 2 × 5 = 10.",
+    "soal": "Pak Budi mempunyai 20 kg jeruk, 30 kg apel, dan 40 kg mangga. Buah-buahan tersebut akan dibagikan kepada warga dalam paket yang sama banyak dan tidak ada sisa. Banyak paket terbanyak yang dapat dibuat adalah .... paket. Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-33-A",
+    "indikator": 33,
+    "jawaban": "70",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "3/5 = 60%, 0,7 = 70%, dan 65% = 65%. Bilangan yang paling besar adalah 0,7, yaitu 70%.",
+    "soal": "Bilangan 3/5, 0,7, dan 65% diurutkan dari yang terbesar. Nilai persen dari bilangan yang paling besar adalah .... Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-33-B",
+    "indikator": 33,
+    "jawaban": "40",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "2/5 = 40%, 0,45 = 45%, dan 50% = 50%. Bilangan yang paling kecil adalah 2/5, yaitu 40%.",
+    "soal": "Bilangan 2/5, 0,45, dan 50% diurutkan dari yang terkecil. Nilai persen dari bilangan yang paling kecil adalah .... Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "ARS-34-A",
+    "indikator": 34,
+    "jawaban": "1000000",
+    "level": "C2",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Tabungan akhir = tabungan awal + 10% tabungan awal = 110% tabungan awal. Tabungan awal = 1.100.000 ÷ 110 × 100 = 1.000.000.",
+    "soal": "Setelah 1 tahun menabung, tabungan Sinta menjadi Rp1.100.000,00. Bunga yang diperoleh adalah 10% dari tabungan awal. Tabungan awal Sinta adalah Rp.... Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "ARS-34-B",
+    "indikator": 34,
+    "jawaban": "1200000",
+    "level": "C2",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Tabungan akhir = 110% tabungan awal. Tabungan awal = 1.320.000 ÷ 110 × 100 = 1.200.000.",
+    "soal": "Setelah 1 tahun menabung, tabungan Budi menjadi Rp1.320.000,00. Bunga yang diperoleh adalah 10% dari tabungan awal. Tabungan awal Budi adalah Rp.... Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "RAS-35-A",
+    "indikator": 35,
+    "jawaban": "15",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Lebar = 3/5 × 25 = 15.",
+    "soal": "Perbandingan panjang dan lebar sebuah persegi panjang adalah 5 : 3. Jika panjang persegi panjang tersebut 25 cm, lebarnya adalah .... cm. Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "A"
+  },
+  {
+    "id": "RAS-35-B",
+    "indikator": 35,
+    "jawaban": "49",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Kelereng biru = 7/4 × 28 = 49.",
+    "soal": "Perbandingan banyak kelereng merah dan kelereng biru adalah 4 : 7. Jika banyak kelereng merah adalah 28 butir, banyak kelereng biru adalah .... butir. Tuliskan angkanya saja.",
+    "tipe": "Isian Singkat",
+    "varian": "B"
+  },
+  {
+    "id": "BLT-36-A",
+    "indikator": 36,
+    "jawaban": "Skor Rudi 115, ia lulus karena 115 lebih dari 100.",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Skor jawaban benar: 30 × 4 = 120. Skor jawaban salah: 5 × (-1) = -5. Soal tidak dijawab: 5 × 0 = 0. Total skor: 120 - 5 + 0 = 115. Karena 115 lebih dari 100, Rudi lulus.",
+    "soal": "Suatu tes terdiri atas 40 soal. Jawaban benar mendapat +4 poin, jawaban salah mendapat -1 poin, dan soal yang tidak dijawab mendapat 0 poin. Rudi menjawab benar 30 soal, salah 5 soal, dan tidak menjawab 5 soal. Hitung total skor Rudi dan tentukan apakah ia lulus jika skor minimum kelulusan adalah 100.",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "BLT-36-B",
+    "indikator": 36,
+    "jawaban": "Skor Sinta 120, ia lulus karena 120 lebih dari 100.",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Skor jawaban benar: 35 × 4 = 140. Skor jawaban salah: 10 × (-2) = -20. Soal tidak dijawab: 5 × 0 = 0. Total skor: 140 - 20 + 0 = 120. Karena 120 lebih dari 100, Sinta lulus.",
+    "soal": "Suatu tes terdiri atas 50 soal. Jawaban benar mendapat +4 poin, jawaban salah mendapat -2 poin, dan soal yang tidak dijawab mendapat 0 poin. Sinta menjawab benar 35 soal, salah 10 soal, dan tidak menjawab 5 soal. Hitung total skor Sinta dan tentukan apakah ia lulus jika skor minimum kelulusan adalah 100.",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "BLT-37-A",
+    "indikator": 37,
+    "jawaban": "12 kotak.",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Banyak kotak terbanyak adalah FPB dari 24 dan 36. FPB 24 = 2³ × 3, FPB 36 = 2² × 3². FPB-nya 2² × 3 = 12. Jadi banyak kotak terbanyak adalah 12 kotak.",
+    "soal": "Ibu mempunyai 24 kue cokelat dan 36 kue keju. Kue-kue tersebut akan dimasukkan ke dalam kotak dengan isi yang sama banyak dan tidak ada sisa. Berapa banyak kotak terbanyak yang dapat dibuat?",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "BLT-37-B",
+    "indikator": 37,
+    "jawaban": "18 keranjang.",
+    "level": "C3",
+    "materi": "Bilangan Bulat",
+    "pembahasan": "Banyak keranjang terbanyak adalah FPB dari 36 dan 54. FPB 36 = 2² × 3², FPB 54 = 2 × 3³. FPB-nya 2 × 3² = 18. Jadi banyak keranjang terbanyak adalah 18 keranjang.",
+    "soal": "Pak Andi mempunyai 36 apel dan 54 jeruk. Buah-buahan tersebut akan dimasukkan ke dalam keranjang dengan isi yang sama banyak dan tidak ada sisa. Berapa banyak keranjang terbanyak yang dapat dibuat?",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "RSN-38-A",
+    "indikator": 38,
+    "jawaban": "3,25 kg.",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "2 1/2 kg = 2,5 kg dan 3/4 kg = 0,75 kg. Tepung Ibu sekarang: 2,5 - 0,75 + 1,5 = 3,25 kg.",
+    "soal": "Ibu mempunyai 2 1/2 kg tepung. Sebanyak 3/4 kg tepung dipakai untuk membuat kue, lalu Ibu membeli lagi 1,5 kg tepung. Berapa kg tepung yang dimiliki Ibu sekarang?",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "RSN-38-B",
+    "indikator": 38,
+    "jawaban": "4,25 liter.",
+    "level": "C3",
+    "materi": "Bilangan Rasional",
+    "pembahasan": "1 1/2 liter = 1,5 liter. Minyak Ayah sekarang: 5 - 1,5 + 0,75 = 4,25 liter.",
+    "soal": "Ayah mempunyai 5 liter minyak goreng. Sebanyak 1 1/2 liter minyak dipakai untuk menggoreng, lalu Ayah membeli lagi 0,75 liter minyak. Berapa liter minyak yang dimiliki Ayah sekarang?",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "ARS-39-A",
+    "indikator": 39,
+    "jawaban": "25%.",
+    "level": "C3",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Besar diskon = 200.000 - 150.000 = Rp50.000,00. Persentase diskon = 50.000/200.000 × 100% = 25%.",
+    "soal": "Sebuah baju dijual dengan harga awal Rp200.000,00. Setelah diberi diskon, harga baju tersebut menjadi Rp150.000,00. Berapa persen diskon yang diberikan?",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "ARS-39-B",
+    "indikator": 39,
+    "jawaban": "20%.",
+    "level": "C3",
+    "materi": "Aritmetika Sosial",
+    "pembahasan": "Besar diskon = 300.000 - 240.000 = Rp60.000,00. Persentase diskon = 60.000/300.000 × 100% = 20%.",
+    "soal": "Sepasang sepatu dijual dengan harga awal Rp300.000,00. Setelah diberi diskon, harga sepatu tersebut menjadi Rp240.000,00. Berapa persen diskon yang diberikan?",
+    "tipe": "Uraian",
+    "varian": "B"
+  },
+  {
+    "id": "RAS-40-A",
+    "indikator": 40,
+    "jawaban": "Rp50.000,00.",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Harga 1 buku tulis = 20.000 ÷ 4 = Rp5.000,00. Harga 10 buku tulis = 10 × 5.000 = Rp50.000,00.",
+    "soal": "Sebuah toko menjual 4 buku tulis dengan harga Rp20.000,00. Berapa harga 10 buku tulis di toko tersebut?",
+    "tipe": "Uraian",
+    "varian": "A"
+  },
+  {
+    "id": "RAS-40-B",
+    "indikator": 40,
+    "jawaban": "300 km.",
+    "level": "C3",
+    "materi": "Rasio",
+    "pembahasan": "Kecepatan bus = 180 ÷ 3 = 60 km/jam. Jarak dalam 5 jam = 60 × 5 = 300 km.",
+    "soal": "Sebuah bus menempuh jarak 180 km dalam waktu 3 jam. Berapa jarak yang ditempuh bus tersebut dalam waktu 5 jam dengan kecepatan yang sama?",
+    "tipe": "Uraian",
+    "varian": "B"
+  }
+]
