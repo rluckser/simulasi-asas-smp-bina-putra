@@ -3,6 +3,8 @@
 Website tes soal prediksi ASAS — Matematika Kelas IX, ASAS Ganjil 2026/2027,
 berdasarkan kisi-kisi MGMP Matematika SMP Kabupaten Lampung Tengah.
 
+**Dibuat oleh Jelly Dharmawan S.Pd.**
+
 - **40 soal per sesi**, waktu **120 menit** (timer hitung mundur, otomatis mengumpulkan saat habis)
 - **Bank soal 80 soal**: 2 varian (A/B) untuk tiap indikator 1–40. Tiap sesi diambil 1 varian acak per indikator, lalu urutan soal dan pilihan jawaban (PG & Menjodohkan) diacak.
 - **Skor otomatis** dari 30 soal: Pilihan Jamak (20), Benar-Salah (5), Menjodohkan (5). Nilai 0–100.
