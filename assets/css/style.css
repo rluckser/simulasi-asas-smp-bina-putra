@@ -24,6 +24,7 @@ h3 { font-size: 1.05rem; margin-bottom: 0.4rem; }
 .hero h1 { color: #fff; }
 .hero-school { margin: 0; letter-spacing: 0.12em; text-transform: uppercase; font-size: 0.8rem; opacity: 0.9; }
 .hero-sub { font-size: 1.1rem; margin: 0.2rem 0 0.6rem; font-weight: 600; }
+.hero-by { font-size: 0.95rem; margin: 0.3rem 0 0; opacity: 0.9; }
 .hero-desc { max-width: 640px; margin: 0 auto; opacity: 0.95; }
 
 /* Kartu & info */
